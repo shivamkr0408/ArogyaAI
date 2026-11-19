@@ -1,0 +1,9 @@
+# Migraine
+
+Migraine is a neurological condition characterized by intense, debilitating headaches, often accompanied by other symptoms. It is more than just a bad headache; migraines involve complex changes in brain activity and blood flow. They can be triggered by a variety of factors, including stress, hormonal changes, certain foods, sleep disturbances, bright lights, strong smells, and weather changes. Migraines can run in families, suggesting a genetic component, and are more common in women than men. They can occur with or without an aura, which is a set of sensory disturbances that precede or accompany the headache phase.
+
+A typical migraine follows a pattern that may include four phases: prodrome (early warning signs like mood changes or food cravings), aura (visual disturbances, tingling, or speech difficulties), headache (throbbing pain usually on one side of the head, often with nausea, vomiting, and sensitivity to light and sound), and postdrome (fatigue and mood changes after the headache subsides). Migraine attacks can last from a few hours to several days, and their frequency varies from occasional to multiple times per week.
+
+General self-care guidance includes identifying and avoiding personal triggers through a headache diary, maintaining a regular sleep schedule, staying hydrated, managing stress, and eating balanced meals at regular intervals. Relaxation techniques, such as deep breathing and meditation, may help reduce the frequency and severity of attacks. Resting in a quiet, dark room during an attack can provide some relief.
+
+You should see a doctor if migraines are frequent, severe, or interfere with daily life, if over-the-counter treatments do not provide relief, or if you experience new or unusual symptoms such as a sudden, severe headache, fever, stiff neck, confusion, or weakness. These may indicate a more serious condition requiring immediate medical evaluation.

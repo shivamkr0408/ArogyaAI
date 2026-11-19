@@ -1,0 +1,9 @@
+# Hepatitis C
+
+Hepatitis C is a liver infection caused by the hepatitis C virus (HCV), which can become chronic and lead to serious liver damage. The virus is primarily transmitted through contact with infected blood, most commonly through sharing needles or other equipment for drug use, unsafe medical practices, or, less frequently, through sexual contact or from mother to child during birth. Many people with hepatitis C are unaware they are infected, as the acute phase often produces mild or no symptoms. Over time, chronic hepatitis C can cause liver inflammation, fibrosis, cirrhosis, and liver cancer.
+
+When symptoms do occur, they may include fatigue, loss of appetite, nausea, abdominal pain, dark urine, and jaundice. However, many individuals remain asymptomatic for years or decades, during which time liver damage can progress silently. The lack of prominent early symptoms makes screening particularly important for those at risk. Blood tests are necessary to diagnose hepatitis C, as symptoms alone are not reliable for detection.
+
+General self-care guidance focuses on preventing transmission and supporting liver health. Avoiding sharing needles, using sterile equipment for body piercings and tattoos, and practicing safe sex can reduce the risk of infection. For those diagnosed with hepatitis C, avoiding alcohol, maintaining a healthy diet, and staying up to date with vaccinations for hepatitis A and B are important measures. Regular medical monitoring helps assess liver health and determine the appropriate time for treatment.
+
+You should see a doctor if you have risk factors for hepatitis C, if you develop symptoms suggestive of liver disease, or if screening tests are positive. Modern antiviral treatments are highly effective and can cure hepatitis C in the majority of cases, making early diagnosis and treatment crucial for preventing long-term complications.

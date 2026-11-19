@@ -1,0 +1,9 @@
+# Tuberculosis
+
+Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis that primarily affects the lungs but can also involve other parts of the body, known as extrapulmonary TB. The bacteria spread through the air when an infected person coughs, sneezes, or speaks, making close and prolonged contact a significant risk factor. TB is a major global health concern, particularly in regions with high prevalence and limited access to healthcare. The infection can be latent, where the bacteria remain inactive and cause no symptoms, or active, where the bacteria multiply and cause disease.
+
+Typical symptoms of active pulmonary TB include a persistent cough lasting more than two weeks, coughing up blood or sputum, chest pain, fatigue, weight loss, night sweats, and fever. The onset of symptoms is usually gradual, and without treatment, the disease can progress and spread to other organs. Latent TB does not cause symptoms and is not contagious, but it can progress to active disease, especially in individuals with weakened immune systems.
+
+General self-care guidance includes maintaining good respiratory hygiene by covering the mouth and nose when coughing or sneezing, ensuring adequate ventilation in living spaces, and avoiding close contact with individuals who have active TB. If diagnosed with latent TB, preventive treatment can reduce the risk of progression to active disease. A balanced diet, adequate rest, and avoiding smoking support overall health and recovery during treatment.
+
+You should see a doctor if you have a persistent cough, especially if accompanied by fever, night sweats, weight loss, or coughing up blood. TB is diagnosed through sputum tests, chest imaging, and other diagnostic tools, and requires a full course of antibiotic treatment prescribed and monitored by a healthcare provider. Early diagnosis and treatment are crucial to prevent the spread of infection and ensure recovery.

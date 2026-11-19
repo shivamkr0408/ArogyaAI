@@ -1,0 +1,9 @@
+# Alcoholic Hepatitis
+
+Alcoholic hepatitis is a type of liver inflammation caused by excessive and prolonged alcohol consumption. It occurs when toxic byproducts of alcohol metabolism damage liver cells, leading to inflammation and cell death. The risk increases with the amount and duration of alcohol intake, and the condition can range from mild to severe. Individuals who consume large quantities of alcohol over an extended period are at the greatest risk, though the condition can also develop after episodes of heavy drinking in people who do not regularly consume large amounts.
+
+Typical symptoms include jaundice, fever, abdominal pain (especially in the upper right area), nausea, loss of appetite, and swelling in the abdomen due to fluid accumulation. In severe cases, symptoms may include confusion, disorientation, and signs of liver failure. The severity of symptoms often correlates with the extent of liver damage. Some individuals may have mild inflammation with few symptoms, while others experience life-threatening complications.
+
+General self-care guidance centers on completely avoiding alcohol, as continued drinking significantly worsens the condition and increases the risk of cirrhosis and liver failure. A balanced, nutritious diet rich in vitamins and protein supports liver recovery. Adequate hydration and rest are important. For individuals with severe alcoholic hepatitis, medical treatment may include supportive care to manage complications. Seeking professional help for alcohol dependence is an essential part of long-term management and recovery.
+
+You should see a doctor immediately if you experience symptoms of alcoholic hepatitis, particularly jaundice, fever, severe abdominal pain, or confusion. Early medical intervention can help manage the condition and prevent progression to more severe liver disease. A healthcare provider can assess the extent of liver damage and recommend appropriate treatment and lifestyle changes.

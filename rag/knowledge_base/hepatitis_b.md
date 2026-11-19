@@ -1,0 +1,9 @@
+# Hepatitis B
+
+Hepatitis B is a liver infection caused by the hepatitis B virus (HBV), which can become chronic and lead to serious liver complications. The virus is transmitted through contact with infected blood, semen, or other bodily fluids, and can be passed from mother to child during childbirth, through sharing needles or personal items contaminated with blood, or through unprotected sexual contact. Chronic hepatitis B increases the risk of liver cirrhosis, liver failure, and liver cancer. The virus can persist in the body for years or even a lifetime, sometimes without causing obvious symptoms.
+
+Acute hepatitis B may present with fatigue, fever, nausea, abdominal pain, dark urine, jaundice, and joint pain. Many people, especially children, may not experience symptoms during the initial infection but can still carry and transmit the virus. Chronic hepatitis B often remains asymptomatic for years, during which time liver damage may silently progress. Regular monitoring is essential for those with chronic infection, as complications can develop without warning.
+
+General self-care guidance includes prevention through vaccination, which is highly effective and widely available. Practicing safe sex, avoiding sharing needles or personal hygiene items, and ensuring sterile practices for tattoos and piercings reduce the risk of transmission. For those with chronic hepatitis B, maintaining a healthy lifestyle, avoiding alcohol, and adhering to regular medical follow-up are important. A balanced diet and regular exercise support overall liver health.
+
+You should see a doctor if you have been exposed to HBV, if you develop symptoms of liver inflammation, or if you have a known chronic infection and have not been monitored regularly. Blood tests can assess liver function and viral activity, and early intervention can prevent or slow the progression of liver disease. Vaccination is recommended for all infants and individuals at risk.

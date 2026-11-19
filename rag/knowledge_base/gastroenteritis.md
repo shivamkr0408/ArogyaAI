@@ -1,0 +1,9 @@
+# Gastroenteritis
+
+Gastroenteritis, commonly known as the stomach flu, is an inflammation of the stomach and intestines, usually caused by viral or bacterial infections. Common culprits include norovirus, rotavirus, and bacterial pathogens such as Salmonella or E. coli. It is highly contagious and can spread through contaminated food or water, close contact with infected individuals, or touching contaminated surfaces. The condition can occur at any age but is particularly common in children and those in crowded settings.
+
+Typical symptoms include nausea, vomiting, diarrhea, abdominal cramps, and sometimes fever. The onset is usually sudden, and symptoms can range from mild to severe. Dehydration is a significant concern, especially in young children, older adults, and individuals with weakened immune systems. Signs of dehydration include dry mouth, reduced urine output, dizziness, and fatigue. Symptoms generally resolve within a few days, but bacterial infections may last longer and require medical attention.
+
+General self-care guidance focuses on preventing and managing dehydration. Drinking plenty of fluids, including oral rehydration solutions, is essential. Small, frequent sips are better tolerated than large amounts at once. Bland foods such as rice, bananas, and toast may be easier to eat during recovery. Avoiding caffeine, alcohol, and fatty or spicy foods can help reduce irritation. Rest is important, and good hand hygiene can prevent spreading the infection to others.
+
+You should see a doctor if symptoms are severe or persist beyond a few days, if there is blood in the stool, if you cannot keep fluids down, or if signs of dehydration are present. Infants, older adults, and immunocompromised individuals should seek medical attention promptly, as they are at higher risk for complications.

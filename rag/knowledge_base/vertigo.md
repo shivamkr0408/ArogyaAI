@@ -1,0 +1,9 @@
+# Vertigo
+
+Vertigo is a sensation of spinning or movement, either of the individual or their surroundings, even when no actual movement is occurring. It is a symptom rather than a disease itself and can arise from various underlying conditions affecting the inner ear or the brain. The most common cause is benign paroxysmal positional vertigo (BPPV), which occurs when tiny calcium crystals in the inner ear become dislodged. Other causes include vestibular neuritis, Meniere's disease, labyrinthitis, migraines, and certain medications. Vertigo can range from mild and brief to severe and debilitating.
+
+Typical symptoms include a spinning or tilting sensation, loss of balance, nausea, vomiting, dizziness, and difficulty focusing the eyes. Symptoms may be triggered or worsened by changes in head position, such as turning the head quickly, getting up from bed, or looking up. Episodes can last from seconds to minutes in BPPV, or longer in other conditions. Some individuals may also experience hearing changes, ringing in the ears, or a feeling of fullness in the ear, depending on the underlying cause.
+
+General self-care guidance includes moving slowly and deliberately when changing positions, especially when getting up from lying or sitting. Avoiding sudden head movements and sleeping with the head slightly elevated may reduce symptom frequency. Staying hydrated and managing stress can also help. For BPPV, specific repositioning maneuvers performed under the guidance of a healthcare provider can be highly effective in resolving symptoms.
+
+You should see a doctor if vertigo is severe, persistent, or accompanied by hearing loss, severe headache, difficulty speaking, double vision, or numbness. These symptoms may indicate a more serious condition affecting the brain, such as a stroke or other neurological disorder. A healthcare provider can perform diagnostic tests to identify the cause and recommend appropriate treatment.

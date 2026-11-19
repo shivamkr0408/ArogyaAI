@@ -1,0 +1,9 @@
+# Chronic Cholestasis
+
+Chronic cholestasis is a condition characterized by a long-term reduction or blockage in the flow of bile from the liver. Bile is essential for the digestion and absorption of fats and fat-soluble vitamins, and its proper flow is critical for liver function. The condition can result from various causes, including liver diseases, bile duct disorders, or certain medications. Chronic cholestasis can lead to the accumulation of bile substances in the liver and bloodstream, potentially causing liver damage over time.
+
+Symptoms typically include persistent itching (pruritus), which can be particularly intense at night, yellowing of the skin and eyes (jaundice), dark urine, pale or clay-colored stools, and fatigue. Some individuals may experience unintended weight loss, poor appetite, or discomfort in the upper right abdomen. The itching associated with cholestasis can be debilitating and significantly affect quality of life. Symptoms tend to develop gradually and may fluctuate in intensity over time.
+
+General self-care guidance includes maintaining a balanced, low-fat diet, staying well-hydrated, and avoiding alcohol and unnecessary medications that could strain the liver. Keeping the skin moisturized can help alleviate itching, and wearing loose, comfortable clothing may reduce irritation. Regular follow-up with a healthcare provider is important to monitor liver function and address any nutritional deficiencies that may arise due to impaired bile flow.
+
+You should seek medical attention if you notice persistent jaundice, severe or unrelenting itching, unexplained weight loss, or abdominal swelling. Blood tests and imaging studies can help determine the underlying cause and guide appropriate treatment. Early diagnosis and management are important to prevent complications such as liver cirrhosis or nutritional deficiencies.

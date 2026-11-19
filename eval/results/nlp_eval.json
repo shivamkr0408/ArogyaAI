@@ -1,0 +1,642 @@
+{
+  "generated_at": "2026-10-12T07:55:54",
+  "gold_version": "1.1",
+  "symptom_extraction": {
+    "n_cases": 30,
+    "micro_precision": 0.98,
+    "micro_recall": 0.98,
+    "micro_f1": 0.98,
+    "macro_precision": 0.9833,
+    "macro_recall": 0.9833,
+    "macro_f1": 0.9833,
+    "exact_set_match": 0.9667,
+    "true_positives": 49,
+    "false_positives": 1,
+    "false_negatives": 1,
+    "negation_violations": 0,
+    "cases": [
+      {
+        "text": "I have a high fever and a bad headache",
+        "expected": [
+          "headache",
+          "high_fever"
+        ],
+        "predicted": [
+          "headache",
+          "high_fever"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "coughing a lot with a sore throat and runny nose",
+        "expected": [
+          "cough",
+          "runny_nose",
+          "sore_throat"
+        ],
+        "predicted": [
+          "cough",
+          "runny_nose",
+          "sore_throat"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "I don't have any fever but my chest hurts",
+        "expected": [
+          "chest_pain"
+        ],
+        "predicted": [
+          "chest_pain"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "no cough but I do have body aches and chills",
+        "expected": [
+          "chills",
+          "muscle_pain"
+        ],
+        "predicted": [
+          "chills",
+          "muscle_pain"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "my father has diabetes, I feel fine",
+        "expected": [],
+        "predicted": [],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "if I get a fever should I worry",
+        "expected": [],
+        "predicted": [],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "I had dengue last year, now just a mild cough",
+        "expected": [
+          "cough"
+        ],
+        "predicted": [
+          "cough"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "throwing up since this morning and loose motions",
+        "expected": [
+          "diarrhea",
+          "vomiting"
+        ],
+        "predicted": [
+          "diarrhea",
+          "vomiting"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "mujhe tez bukhar aur khansi hai",
+        "expected": [
+          "cough",
+          "high_fever"
+        ],
+        "predicted": [
+          "cough",
+          "high_fever"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "pet dard aur ulti ho rahi hai",
+        "expected": [
+          "stomach_pain",
+          "vomiting"
+        ],
+        "predicted": [
+          "stomach_pain",
+          "vomiting"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "sar dard aur chakkar aa rahe hain",
+        "expected": [
+          "dizziness",
+          "headache"
+        ],
+        "predicted": [
+          "dizziness",
+          "headache"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "badan dard ke saath thand lagna",
+        "expected": [
+          "chills",
+          "muscle_pain"
+        ],
+        "predicted": [
+          "chills",
+          "muscle_pain"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "peshab me jalan ho rahi hai",
+        "expected": [
+          "burning_micturition"
+        ],
+        "predicted": [
+          "burning_micturition"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "saans lene me takleef aur seene me dard",
+        "expected": [
+          "breathlessness",
+          "chest_pain"
+        ],
+        "predicted": [
+          "breathlessness",
+          "chest_pain"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "I have a feaver and coughhh",
+        "expected": [
+          "cough",
+          "fever"
+        ],
+        "predicted": [
+          "cough",
+          "fever"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "stomuch ake and vomitting",
+        "expected": [
+          "stomach_pain",
+          "vomiting"
+        ],
+        "predicted": [
+          "stomach_pain",
+          "vomiting"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "my kness hurt and they are swollen",
+        "expected": [
+          "joint_pain",
+          "joint_swelling"
+        ],
+        "predicted": [
+          "joint_pain",
+          "swelling"
+        ],
+        "missed": [
+          "joint_swelling"
+        ],
+        "spurious": [
+          "swelling"
+        ],
+        "negation_leaks": [],
+        "f1": 0.5
+      },
+      {
+        "text": "severe joint pain with morning stiffness",
+        "expected": [
+          "joint_pain",
+          "joint_stiffness"
+        ],
+        "predicted": [
+          "joint_pain",
+          "joint_stiffness"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "itchy skin with a red rash",
+        "expected": [
+          "itching",
+          "skin_rash"
+        ],
+        "predicted": [
+          "itching",
+          "skin_rash"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "I feel dizzy and the room is spinning",
+        "expected": [
+          "dizziness",
+          "spinning_movements"
+        ],
+        "predicted": [
+          "dizziness",
+          "spinning_movements"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "burning when I pee and I keep going to the toilet",
+        "expected": [
+          "burning_micturition",
+          "polyuria"
+        ],
+        "predicted": [
+          "burning_micturition",
+          "polyuria"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "my eyes look yellow and my urine is dark",
+        "expected": [
+          "dark_urine",
+          "yellowing_of_eyes"
+        ],
+        "predicted": [
+          "dark_urine",
+          "yellowing_of_eyes"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "I am not experiencing any chest pain at all",
+        "expected": [],
+        "predicted": [],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "denies vomiting and nausea",
+        "expected": [],
+        "predicted": [],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "wheezing and tight chest when I walk",
+        "expected": [
+          "chest_tightness",
+          "wheezing"
+        ],
+        "predicted": [
+          "chest_tightness",
+          "wheezing"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "no appetite and losing weight",
+        "expected": [
+          "loss_of_appetite",
+          "weight_loss"
+        ],
+        "predicted": [
+          "loss_of_appetite",
+          "weight_loss"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "heart racing and I cant sleep",
+        "expected": [
+          "insomnia",
+          "palpitations"
+        ],
+        "predicted": [
+          "insomnia",
+          "palpitations"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "constant sneezing and watery eyes",
+        "expected": [
+          "continuous_sneezing",
+          "watering_from_eyes"
+        ],
+        "predicted": [
+          "continuous_sneezing",
+          "watering_from_eyes"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "constipation and pain when passing stool",
+        "expected": [
+          "constipation",
+          "pain_during_bowel_movement"
+        ],
+        "predicted": [
+          "constipation",
+          "pain_during_bowel_movement"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      },
+      {
+        "text": "feeling anxious and restless all day",
+        "expected": [
+          "anxiety",
+          "restlessness"
+        ],
+        "predicted": [
+          "anxiety",
+          "restlessness"
+        ],
+        "missed": [],
+        "spurious": [],
+        "negation_leaks": [],
+        "f1": 1.0
+      }
+    ]
+  },
+  "assertion": {
+    "n_cases": 30,
+    "accuracy": 1.0,
+    "per_label": {
+      "affirmed": {
+        "accuracy": 1.0,
+        "support": 5
+      },
+      "family": {
+        "accuracy": 1.0,
+        "support": 4
+      },
+      "historical": {
+        "accuracy": 1.0,
+        "support": 4
+      },
+      "hypothetical": {
+        "accuracy": 1.0,
+        "support": 4
+      },
+      "negated": {
+        "accuracy": 1.0,
+        "support": 10
+      },
+      "uncertain": {
+        "accuracy": 1.0,
+        "support": 3
+      }
+    },
+    "confusions": {},
+    "failures": []
+  },
+  "intent": {
+    "n_cases": 32,
+    "leaked_from_training": [],
+    "accuracy": 0.6562,
+    "macro_f1": 0.6002,
+    "rule_decided": 0,
+    "rule_accuracy": null,
+    "model_decided": 32,
+    "model_accuracy": 0.6562,
+    "per_label": {
+      "affirm": {
+        "accuracy": 1.0,
+        "support": 2
+      },
+      "ask_alternatives": {
+        "accuracy": 1.0,
+        "support": 3
+      },
+      "ask_diet": {
+        "accuracy": 0.6667,
+        "support": 3
+      },
+      "ask_doctor": {
+        "accuracy": 0.6667,
+        "support": 3
+      },
+      "ask_medicine": {
+        "accuracy": 0.0,
+        "support": 3
+      },
+      "ask_prognosis": {
+        "accuracy": 0.3333,
+        "support": 3
+      },
+      "deny": {
+        "accuracy": 1.0,
+        "support": 2
+      },
+      "describe_symptom": {
+        "accuracy": 1.0,
+        "support": 5
+      },
+      "greeting": {
+        "accuracy": 0.6667,
+        "support": 3
+      },
+      "out_of_scope": {
+        "accuracy": 0.6667,
+        "support": 3
+      },
+      "thanks": {
+        "accuracy": 0.0,
+        "support": 2
+      }
+    },
+    "confusions": {
+      "greeting -> deny": 1,
+      "ask_diet -> describe_symptom": 1,
+      "ask_doctor -> out_of_scope": 1,
+      "ask_medicine -> ask_alternatives": 1,
+      "ask_medicine -> ask_prognosis": 1,
+      "ask_medicine -> greeting": 1,
+      "ask_prognosis -> out_of_scope": 1,
+      "ask_prognosis -> ask_alternatives": 1,
+      "thanks -> ask_medicine": 2,
+      "out_of_scope -> greeting": 1
+    },
+    "failures": [
+      {
+        "text": "hii kuch puchna tha aapse",
+        "expected": "greeting",
+        "got": "deny",
+        "confidence": 0.226,
+        "source": "model"
+      },
+      {
+        "text": "can i continue with my normal meals",
+        "expected": "ask_diet",
+        "got": "describe_symptom",
+        "confidence": 0.268,
+        "source": "model"
+      },
+      {
+        "text": "would you advise an in person visit",
+        "expected": "ask_doctor",
+        "got": "out_of_scope",
+        "confidence": 0.206,
+        "source": "model"
+      },
+      {
+        "text": "name a tablet i could buy over the counter",
+        "expected": "ask_medicine",
+        "got": "ask_alternatives",
+        "confidence": 0.256,
+        "source": "model"
+      },
+      {
+        "text": "what should i apply on it",
+        "expected": "ask_medicine",
+        "got": "ask_prognosis",
+        "confidence": 0.264,
+        "source": "model"
+      },
+      {
+        "text": "anything from the chemist that would help",
+        "expected": "ask_medicine",
+        "got": "greeting",
+        "confidence": 0.27,
+        "source": "model"
+      },
+      {
+        "text": "how much time before this settles down",
+        "expected": "ask_prognosis",
+        "got": "out_of_scope",
+        "confidence": 0.174,
+        "source": "model"
+      },
+      {
+        "text": "could this get complicated later on",
+        "expected": "ask_prognosis",
+        "got": "ask_alternatives",
+        "confidence": 0.274,
+        "source": "model"
+      },
+      {
+        "text": "cheers for that",
+        "expected": "thanks",
+        "got": "ask_medicine",
+        "confidence": 0.255,
+        "source": "model"
+      },
+      {
+        "text": "much obliged for the guidance",
+        "expected": "thanks",
+        "got": "ask_medicine",
+        "confidence": 0.221,
+        "source": "model"
+      },
+      {
+        "text": "suggest a good web series to watch",
+        "expected": "out_of_scope",
+        "got": "greeting",
+        "confidence": 0.219,
+        "source": "model"
+      }
+    ]
+  },
+  "temporal": {
+    "n_cases": 15,
+    "value_accuracy": 1.0,
+    "bucket_accuracy": 1.0,
+    "failures": []
+  },
+  "trend": {
+    "n_cases": 5,
+    "accuracy": 1.0,
+    "failures": []
+  },
+  "distress": {
+    "n_cases": 8,
+    "accuracy": 1.0,
+    "failures": []
+  },
+  "elapsed_s": 2.34
+}

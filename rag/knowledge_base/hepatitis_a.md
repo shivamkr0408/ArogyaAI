@@ -1,0 +1,9 @@
+# Hepatitis A
+
+Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus (HAV). It is primarily transmitted through the fecal-oral route, often via contaminated food or water, close contact with an infected person, or poor sanitation practices. The infection is common in areas with inadequate hygiene infrastructure and can occur in outbreaks in settings such as daycare centers or communities with poor sanitation. Hepatitis A is generally self-limiting and does not cause chronic liver disease, but it can be severe in older adults and those with pre-existing liver conditions.
+
+Typical symptoms typically appear two to six weeks after exposure and include fatigue, fever, nausea, abdominal pain (especially in the upper right side), dark urine, pale or clay-colored stools, jaundice, and loss of appetite. Some individuals, particularly young children, may have mild or no symptoms, while adults often experience more pronounced illness. Most people recover fully within a few weeks to months without specific treatment, and lifelong immunity usually develops after infection.
+
+General self-care guidance includes practicing good hygiene, such as thorough handwashing, avoiding contaminated food and water, and ensuring proper sanitation. Vaccination is the most effective preventive measure and is recommended for travelers to endemic areas, individuals in high-risk groups, and those with chronic liver disease. If infected, rest, adequate hydration, and a nutritious diet support recovery. Avoiding alcohol and unnecessary medications that may stress the liver is important during recovery.
+
+You should see a doctor if you develop symptoms such as jaundice, severe nausea, persistent abdominal pain, or if symptoms do not improve over time. Blood tests can confirm the diagnosis, and medical evaluation is important to rule out other causes of liver inflammation and to monitor for complications, particularly in vulnerable populations.

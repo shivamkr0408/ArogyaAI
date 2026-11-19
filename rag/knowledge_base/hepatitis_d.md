@@ -1,0 +1,9 @@
+# Hepatitis D
+
+Hepatitis D is a liver infection caused by the hepatitis D virus (HDV), which requires the presence of hepatitis B virus (HBV) to replicate and cause infection. Therefore, hepatitis D only occurs in individuals who are already infected with hepatitis B. The combination of HBV and HDV can lead to more severe liver disease than either virus alone, with a higher risk of rapid progression to cirrhosis and liver failure. HDV is transmitted through contact with infected blood or bodily fluids, similar to hepatitis B.
+
+Symptoms of hepatitis D overlap with those of hepatitis B and may include fatigue, jaundice, abdominal pain, dark urine, nausea, and loss of appetite. The co-infection or superinfection (infection with HDV in someone already living with chronic HBV) can lead to more severe and rapid liver damage. Chronic hepatitis D is associated with a higher likelihood of developing cirrhosis and liver complications compared to hepatitis B alone. Diagnosis requires specific blood tests to detect HDV in the presence of HBV.
+
+General self-care guidance includes preventing hepatitis B infection through vaccination, as this also prevents hepatitis D. For those already infected with both HBV and HDV, avoiding alcohol, maintaining a healthy diet, and adhering to medical treatment plans are important. Regular monitoring of liver function and viral activity is essential to assess disease progression and guide management.
+
+You should see a doctor if you have hepatitis B and develop worsening symptoms, or if you have risk factors for hepatitis D exposure. Blood tests can confirm the diagnosis and help determine the extent of liver involvement. Early medical evaluation and appropriate treatment can help manage the infection and reduce the risk of severe liver complications.

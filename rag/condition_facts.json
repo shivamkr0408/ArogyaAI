@@ -1,0 +1,2697 @@
+[
+  {
+    "id": "aids",
+    "name": "AIDS",
+    "aliases": [
+      "hiv",
+      "hiv/aids",
+      "retroviral disease",
+      "एचआईवी"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "AIDS is the most advanced stage of infection with the Human Immunodeficiency Virus (HIV), a virus that attacks the body's immune system, specifically CD4 cells. Over time, HIV destroys these cells, weakening the body's ability to fight infections and certain cancers. Without treatment, HIV can progress to AIDS, which is defined by a severely weakened immune system and the presence of specific opportunistic infections or cancers. HIV is transmitted through certain bodily fluids, including blood, semen, and breast milk.",
+    "common_symptoms": [
+      "weight loss",
+      "high fever",
+      "loss of appetite",
+      "skin rash",
+      "joint pain",
+      "muscle pain"
+    ],
+    "causes": "Advanced infection with the human immunodeficiency virus (HIV), which damages the immune system over time.",
+    "risk_factors": [
+      "Unprotected sex",
+      "Sharing needles",
+      "Unscreened blood products",
+      "Mother-to-child transmission"
+    ],
+    "is_contagious": true,
+    "typical_course": "Early symptoms of HIV may resemble those of many other illnesses and include fever, fatigue, sore throat, swollen lymph nodes, and a skin rash. These symptoms, known as acute retroviral syndrome, typically appear within weeks of infection. Without treatment, the virus continues to replicate silently, gradually depleting immune cells. As the immune system weakens, individuals become more susceptible to a wide range of infections and illnesses that a healthy immune system would normally control. Advanced symptoms may include persistent fevers, chronic diarrhea, unexplained weight loss, and recurrent infections.",
+    "self_care": "AIDS is the most advanced stage of infection with the Human Immunodeficiency Virus (HIV), a virus that attacks the body's immune system, specifically CD4 cells. Over time, HIV destroys these cells, weakening the body's ability to fight infections and certain cancers. Without treatment, HIV can progress to AIDS, which is defined by a severely weakened immune system and the presence of specific opportunistic infections or cancers. HIV is transmitted through certain bodily fluids, including blood, semen, and breast milk.",
+    "diet": {
+      "eat": "Eat nutrient-dense, warm, freshly cooked food. Include protein-rich foods like lentils and eggs. Stay well hydrated. Avoid raw or undercooked foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Follow prescribed antiretroviral therapy strictly. Practice safe hygiene. Maintain regular exercise as tolerated. Get adequate rest.",
+    "ayurvedic_caution": "This is a serious medical condition requiring specialist care. Always follow your doctor's treatment plan. This is general wellness information only.",
+    "complications": [
+      "Opportunistic infections",
+      "Certain cancers",
+      "Severe weight loss",
+      "Neurological problems"
+    ],
+    "condition_specific_red_flags": [
+      "High fever that will not settle",
+      "Breathlessness",
+      "Severe persistent diarrhoea",
+      "Confusion or fits"
+    ],
+    "when_to_see_doctor": "You should seek medical attention if you believe you have been exposed to HIV, if you experience symptoms consistent with acute HIV infection, or if you are living with HIV and notice new or worsening symptoms. Early diagnosis and consistent treatment significantly improve outcomes and quality of life. HIV testing is widely available, confidential, and recommended as part of routine healthcare.",
+    "questions_to_ask_doctor": [
+      "Should I be tested, and how is the test done?",
+      "What do my CD4 count and viral load mean?",
+      "How do I protect my partner?",
+      "Which vaccinations do I need?"
+    ],
+    "common_tests": [
+      "HIV antibody/antigen test",
+      "CD4 count",
+      "Viral load"
+    ],
+    "sources": [
+      "WHO",
+      "CDC"
+    ]
+  },
+  {
+    "id": "alcoholic_hepatitis",
+    "name": "Alcoholic hepatitis",
+    "aliases": [
+      "alcoholic liver disease",
+      "liver damage from alcohol",
+      "sharab se liver"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Alcoholic hepatitis is a type of liver inflammation caused by excessive and prolonged alcohol consumption. It occurs when toxic byproducts of alcohol metabolism damage liver cells, leading to inflammation and cell death. The risk increases with the amount and duration of alcohol intake, and the condition can range from mild to severe. Individuals who consume large quantities of alcohol over an extended period are at the greatest risk, though the condition can also develop after episodes of heavy drinking in people who do not regularly consume large amounts.",
+    "common_symptoms": [
+      "heavy alcohol use",
+      "yellowing of eyes",
+      "abdominal pain",
+      "vomiting",
+      "loss of appetite",
+      "nausea",
+      "fever"
+    ],
+    "causes": "Inflammation of the liver caused by sustained heavy alcohol use.",
+    "risk_factors": [
+      "Long-term heavy drinking",
+      "Binge drinking",
+      "Existing liver disease",
+      "Poor nutrition"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include jaundice, fever, abdominal pain (especially in the upper right area), nausea, loss of appetite, and swelling in the abdomen due to fluid accumulation. In severe cases, symptoms may include confusion, disorientation, and signs of liver failure. The severity of symptoms often correlates with the extent of liver damage. Some individuals may have mild inflammation with few symptoms, while others experience life-threatening complications.",
+    "self_care": "General self-care guidance centers on completely avoiding alcohol, as continued drinking significantly worsens the condition and increases the risk of cirrhosis and liver failure. A balanced, nutritious diet rich in vitamins and protein supports liver recovery. Adequate hydration and rest are important. For individuals with severe alcoholic hepatitis, medical treatment may include supportive care to manage complications. Seeking professional help for alcohol dependence is an essential part of long-term management and recovery.",
+    "diet": {
+      "eat": "Absolutely no alcohol. Eat nutrient-rich, warm, easily digestible food. Include protein-rich foods like dal and eggs. Avoid fried and processed foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Complete alcohol cessation is essential. Rest adequately. Follow prescribed treatment. Get regular medical monitoring. Join a support group if needed.",
+    "ayurvedic_caution": "Alcoholic hepatitis can be life-threatening. Seek immediate medical care. This is general wellness information only.",
+    "complications": [
+      "Liver scarring (cirrhosis)",
+      "Fluid in the abdomen",
+      "Bleeding problems",
+      "Liver failure"
+    ],
+    "condition_specific_red_flags": [
+      "Vomiting blood",
+      "Black tarry stools",
+      "Deep yellowing of the eyes",
+      "Confusion or drowsiness",
+      "Swollen abdomen"
+    ],
+    "when_to_see_doctor": "You should see a doctor immediately if you experience symptoms of alcoholic hepatitis, particularly jaundice, fever, severe abdominal pain, or confusion. Early medical intervention can help manage the condition and prevent progression to more severe liver disease. A healthcare provider can assess the extent of liver damage and recommend appropriate treatment and lifestyle changes.",
+    "questions_to_ask_doctor": [
+      "How much liver damage is there?",
+      "What support is available to stop drinking?",
+      "Which foods and medicines should I avoid?",
+      "How often should liver function be rechecked?"
+    ],
+    "common_tests": [
+      "Liver function tests",
+      "Abdominal ultrasound",
+      "Full blood count"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "allergy",
+    "name": "Allergy",
+    "aliases": [
+      "allergic reaction",
+      "allergies",
+      "allergic rhinitis",
+      "एलर्जी"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Allergies are immune system reactions to substances that are typically harmless to most people, known as allergens. Common allergens include pollen, dust mites, pet dander, certain foods, insect stings, and medications. When a person with allergies encounters an allergen, their immune system produces antibodies that trigger the release of chemicals like histamine, leading to various symptoms. Allergies can range from mild annoyances to severe, life-threatening reactions.",
+    "common_symptoms": [
+      "continuous sneezing",
+      "shivering",
+      "chills",
+      "watering from eyes",
+      "skin rash"
+    ],
+    "causes": "An immune reaction to a substance that is harmless to most people, such as pollen, dust mites, certain foods or medicines.",
+    "risk_factors": [
+      "Family history of allergy",
+      "Asthma or eczema",
+      "Repeated exposure to a trigger"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptom patterns vary depending on the type of allergy. Respiratory allergies may cause sneezing, runny or stuffy nose, itchy or watery eyes, and wheezing. Food allergies can lead to hives, swelling of the face or throat, digestive issues, and in severe cases, anaphylaxis. Skin allergies often present as rashes, itching, or eczema. Symptoms usually appear quickly after exposure to the allergen and can persist as long as the exposure continues.",
+    "self_care": "General self-care guidance includes identifying and avoiding known allergens whenever possible. Keeping living spaces clean, using air purifiers, and washing bedding regularly can reduce exposure to indoor allergens. For mild symptoms, over-the-counter antihistamines may provide relief. It is helpful to keep a symptom diary to identify triggers and patterns, which can be valuable information for healthcare providers.",
+    "diet": {
+      "eat": "Favor warm, cooked foods. Avoid cold, raw, and dairy-heavy meals during flare-ups. Ginger tea may be soothing.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Maintain regular sleep. Practice nasal saline irrigation. Reduce exposure to known allergens. Manage stress through meditation.",
+    "ayurvedic_caution": "See a doctor if symptoms are severe or persistent. This is general wellness information only.",
+    "complications": [
+      "Asthma flare-ups",
+      "Sinus infections",
+      "Rarely, a severe whole-body reaction (anaphylaxis)"
+    ],
+    "condition_specific_red_flags": [
+      "Swelling of the lips, tongue or throat",
+      "Difficulty breathing or noisy breathing",
+      "Feeling faint or collapsing",
+      "Widespread hives with vomiting"
+    ],
+    "when_to_see_doctor": "You should seek medical attention if symptoms are severe, persistent, or significantly impact your daily life. Immediate emergency care is necessary if you experience difficulty breathing, swelling of the face or throat, rapid heartbeat, or dizziness, as these may indicate anaphylaxis. Allergy testing can help identify specific triggers, and a healthcare provider can recommend long-term management strategies.",
+    "questions_to_ask_doctor": [
+      "How do I identify my trigger?",
+      "Is allergy testing worthwhile for me?",
+      "What should I do if a reaction is severe?",
+      "Will this change over time?"
+    ],
+    "common_tests": [
+      "Skin prick test",
+      "Specific IgE blood test"
+    ],
+    "sources": [
+      "NHS",
+      "WHO"
+    ]
+  },
+  {
+    "id": "anxiety",
+    "name": "Anxiety",
+    "aliases": [
+      "anxiety disorder",
+      "panic",
+      "panic attacks",
+      "ghabrahat",
+      "बेचैनी"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Anxiety is a common mental health condition characterized by excessive and persistent worry, fear, or unease that can interfere with daily activities. While everyone experiences anxiety as a normal response to stress, clinical anxiety disorders involve feelings of dread and physical symptoms that are disproportionate to the actual threat and persist over time. There are several types, including generalized anxiety disorder, panic disorder, social anxiety, and specific phobias. Contributing factors include genetics, brain chemistry, personality traits, traumatic experiences, and chronic stress.",
+    "common_symptoms": [
+      "anxiety",
+      "palpitations",
+      "sweating",
+      "tremor",
+      "insomnia",
+      "restlessness",
+      "fatigue"
+    ],
+    "causes": "A mix of stress, life circumstances, temperament and biological factors; often no single cause can be identified.",
+    "risk_factors": [
+      "Ongoing stress",
+      "Family history",
+      "Trauma",
+      "Some medical conditions",
+      "Caffeine and stimulants"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include persistent worry or rumination, restlessness, irritability, difficulty concentrating, muscle tension, sleep disturbances, and physical symptoms such as rapid heartbeat, sweating, trembling, shortness of breath, and gastrointestinal discomfort. Panic attacks, which are sudden episodes of intense fear accompanied by physical symptoms, may occur in some anxiety disorders. Symptoms can vary in intensity and may be triggered by specific situations or occur without an obvious cause. The chronic nature of anxiety can significantly impact quality of life and relationships.",
+    "self_care": "Typical symptoms include persistent worry or rumination, restlessness, irritability, difficulty concentrating, muscle tension, sleep disturbances, and physical symptoms such as rapid heartbeat, sweating, trembling, shortness of breath, and gastrointestinal discomfort. Panic attacks, which are sudden episodes of intense fear accompanied by physical symptoms, may occur in some anxiety disorders. Symptoms can vary in intensity and may be triggered by specific situations or occur without an obvious cause. The chronic nature of anxiety can significantly impact quality of life and relationships.",
+    "diet": {
+      "eat": "Eat warm, nourishing, regular meals. Avoid caffeine, alcohol, and processed sugar. Include calming foods like warm milk with turmeric at bedtime.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Practice regular exercise (walking",
+    "ayurvedic_caution": "Ayurvedic traditions mention ashwagandha and brahmi for nervous system wellness support.",
+    "complications": [
+      "Sleep problems",
+      "Low mood",
+      "Avoiding daily activities",
+      "Physical symptoms such as headaches"
+    ],
+    "condition_specific_red_flags": [
+      "Thoughts of harming yourself",
+      "Chest pain you have not had assessed",
+      "Fainting",
+      "Being unable to function day to day"
+    ],
+    "when_to_see_doctor": "You should see a doctor or mental health professional if anxiety symptoms are persistent, severe, or interfere with your ability to function in daily life, work, or relationships. If you experience panic attacks, intrusive thoughts, or avoidance behaviors that limit your activities, seeking professional help is important. Effective treatments, including therapy and other interventions, are available and can significantly improve symptoms and quality of life.",
+    "questions_to_ask_doctor": [
+      "Which talking therapies are available locally?",
+      "Could a physical condition be contributing?",
+      "What can I do during a panic attack?",
+      "When should treatment be reviewed?"
+    ],
+    "common_tests": [
+      "Clinical assessment",
+      "Thyroid function tests to exclude other causes"
+    ],
+    "sources": [
+      "NHS",
+      "WHO"
+    ]
+  },
+  {
+    "id": "arthritis",
+    "name": "Arthritis",
+    "aliases": [
+      "joint pain disorder",
+      "osteoarthritis",
+      "gathiya",
+      "जोड़ों का दर्द"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Arthritis refers to a group of conditions characterized by inflammation of the joints, causing pain, stiffness, and swelling. The most common types are osteoarthritis, which involves wear and tear of joint cartilage, and rheumatoid arthritis, an autoimmune condition in which the immune system attacks the joint lining. Other forms include psoriatic arthritis, gout, and juvenile arthritis. Risk factors vary by type but may include age, family history, obesity, joint injuries, and autoimmune predisposition. Arthritis can affect people of all ages and is a leading cause of disability worldwide.",
+    "common_symptoms": [
+      "joint pain",
+      "joint swelling",
+      "joint stiffness",
+      "loss of range of motion",
+      "fatigue"
+    ],
+    "causes": "Inflammation or wear of the joints; the common forms are age-related joint wear and inflammatory (autoimmune) arthritis.",
+    "risk_factors": [
+      "Older age",
+      "Previous joint injury",
+      "Excess weight",
+      "Family history",
+      "Repetitive joint use"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include joint pain, swelling, stiffness (especially in the morning or after periods of inactivity), reduced range of motion, and warmth around the affected joints. In rheumatoid arthritis, symptoms often affect multiple joints symmetrically, such as both wrists or both knees. Osteoarthritis tends to affect weight-bearing joints like the knees and hips. Symptoms may worsen over time or during flare-ups, and the pattern of symptoms can help distinguish between different types of arthritis.",
+    "self_care": "General self-care guidance includes maintaining a healthy weight to reduce stress on joints, engaging in low-impact exercises such as swimming, walking, or cycling to improve joint flexibility and strength, and using hot or cold compresses to manage pain and inflammation. A balanced diet rich in anti-inflammatory foods, adequate rest, and stress management can also support overall joint health. Assistive devices may help reduce strain on affected joints during daily activities.",
+    "diet": {
+      "eat": "Eat anti-inflammatory foods: turmeric, ginger, omega-3 rich fish, leafy greens. Avoid fried foods, refined sugar, and processed items. Keep meals warm and cooked.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Exercise regularly with low-impact activities (swimming",
+    "ayurvedic_caution": "Ayurvedic traditions mention guggulu and ginger for joint wellness support.",
+    "complications": [
+      "Reduced mobility",
+      "Joint deformity",
+      "Muscle weakness around the joint"
+    ],
+    "condition_specific_red_flags": [
+      "A hot, very swollen joint with fever",
+      "Sudden inability to use the joint",
+      "Unexplained weight loss with joint pain"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience persistent joint pain, swelling, or stiffness that interferes with daily activities, if joints appear deformed, or if symptoms are accompanied by fever or unexplained weight loss. Early diagnosis and treatment can help manage symptoms, slow disease progression, and prevent joint damage. A healthcare provider can recommend treatments tailored to the specific type and severity of arthritis.",
+    "questions_to_ask_doctor": [
+      "Which type of arthritis is this?",
+      "What exercise is safe for me?",
+      "Will physiotherapy help?",
+      "What can I do to protect the joint long term?"
+    ],
+    "common_tests": [
+      "Joint X-ray",
+      "Inflammatory markers (ESR/CRP)",
+      "Rheumatoid factor"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "asthma",
+    "name": "Asthma",
+    "aliases": [
+      "asthma",
+      "dama",
+      "साँस की बीमारी",
+      "reactive airway disease"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to recurring episodes of wheezing, breathlessness, chest tightness, and coughing. The airways become overly sensitive to various triggers, which can include allergens such as dust mites, pollen, mold, and pet dander, as well as irritants like smoke, strong odors, cold air, and respiratory infections. Genetic predisposition and environmental factors both contribute to the development of asthma. The severity of the condition varies widely, from mild intermittent symptoms to persistent, severe attacks that require emergency care.",
+    "common_symptoms": [
+      "wheezing",
+      "night time symptoms",
+      "symptoms with triggers",
+      "cough",
+      "breathlessness",
+      "chest tightness",
+      "fatigue",
+      "fast heart rate"
+    ],
+    "causes": "Long-term inflammation and narrowing of the airways, which tighten in response to triggers.",
+    "risk_factors": [
+      "Family history",
+      "Allergy or eczema",
+      "Smoke and air pollution",
+      "Occupational dusts"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms often worsen at night or early in the morning and may be triggered by exercise, allergen exposure, or emotional stress. During an asthma episode, the muscles around the airways constrict, the lining swells, and excess mucus is produced, making it difficult to breathe. Between episodes, many individuals with asthma can live relatively normally, though some experience chronic symptoms. The frequency and intensity of attacks can change over time, influenced by seasonal factors, overall health, and exposure to triggers.",
+    "self_care": "General self-care guidance includes identifying and avoiding personal triggers whenever possible. Using air purifiers, controlling indoor humidity, keeping living spaces clean, and avoiding exposure to tobacco smoke can help reduce flare-ups. Regular physical activity is encouraged with appropriate warm-up to prevent exercise-induced symptoms. Following an asthma action plan developed with a healthcare provider helps ensure consistent management, and keeping rescue inhalers accessible is important for handling unexpected attacks.",
+    "diet": {
+      "eat": "Eat warm, freshly cooked food. Avoid cold, raw, and dairy-heavy foods during flare-ups. Include turmeric and ginger. Stay well hydrated with warm water.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Avoid dust",
+    "ayurvedic_caution": " strong perfumes",
+    "complications": [
+      "Severe attacks",
+      "Disturbed sleep",
+      "Reduced activity",
+      "Long-term airway changes"
+    ],
+    "condition_specific_red_flags": [
+      "Too breathless to finish a sentence",
+      "Reliever inhaler not working",
+      "Lips or face turning blue",
+      "Exhaustion from the effort of breathing"
+    ],
+    "when_to_see_doctor": "You should seek immediate medical attention if symptoms worsen despite treatment, if you are unable to speak in full sentences due to breathlessness, if your rescue medication provides little or no relief, or if symptoms escalate rapidly. Regular follow-up with a healthcare provider is essential for monitoring and adjusting your management plan to maintain good control and reduce the risk of complications.",
+    "questions_to_ask_doctor": [
+      "What are my personal triggers?",
+      "Am I using my inhaler correctly?",
+      "Do I need a written asthma action plan?",
+      "How do I know an attack is severe?"
+    ],
+    "common_tests": [
+      "Spirometry (lung function)",
+      "Peak flow monitoring"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "bronchial_asthma",
+    "name": "Bronchial Asthma",
+    "aliases": [
+      "bronchial asthma",
+      "asthma attack",
+      "acute asthma",
+      "dama ka daura"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Bronchial asthma is a chronic respiratory condition characterized by inflammation and narrowing of the airways, leading to recurring episodes of wheezing, breathlessness, chest tightness, and coughing. The airways become hypersensitive to various triggers, which can include allergens such as dust mites, pollen, and pet dander, as well as irritants like smoke, strong odors, cold air, and respiratory infections. Genetic and environmental factors both play a role in its development. Asthma severity varies widely, from mild intermittent symptoms to persistent, life-threatening attacks.",
+    "common_symptoms": [
+      "reliever not helping",
+      "breathlessness",
+      "cough",
+      "sweating",
+      "fatigue",
+      "high fever",
+      "chest pain"
+    ],
+    "causes": "An acute flare of asthma in which the airways narrow sharply, often triggered by infection, allergens or irritants.",
+    "risk_factors": [
+      "Known asthma",
+      "Recent chest infection",
+      "Allergen or smoke exposure",
+      "Missed preventer treatment"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptom patterns include episodes that often worsen at night or early in the morning, and may be triggered by exercise, exposure to allergens, or emotional stress. During an asthma attack, the muscles around the airways tighten, the lining swells, and excess mucus is produced, making breathing difficult. Between episodes, individuals may feel relatively normal, though some experience chronic symptoms. The frequency and severity of episodes can change over time and may be influenced by seasonal factors or overall health.",
+    "self_care": "General self-care guidance includes identifying and avoiding personal triggers whenever possible. Maintaining a clean living environment, using air filters, and controlling indoor humidity can reduce allergen exposure. Regular physical activity is encouraged, with appropriate warm-up to prevent exercise-induced symptoms. Following an asthma action plan developed with a healthcare provider helps ensure appropriate management, and keeping rescue medications accessible is important for handling unexpected flare-ups.",
+    "diet": {
+      "eat": "Eat warm, light, freshly cooked food. Avoid cold drinks, dairy products, and fried foods during flare-ups. Include turmeric and ginger in cooking.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Avoid dust",
+    "ayurvedic_caution": " and cold air. Practice breathing exercises (pranayama). Maintain regular sleep. Keep the living environment clean and well-ventilated.",
+    "complications": [
+      "Respiratory failure in severe attacks",
+      "Repeated hospital visits"
+    ],
+    "condition_specific_red_flags": [
+      "Too breathless to speak",
+      "Reliever not helping",
+      "Blue lips",
+      "Drowsiness during an attack"
+    ],
+    "when_to_see_doctor": "You should seek immediate medical attention if symptoms worsen despite treatment, if you are unable to speak in full sentences due to breathlessness, if your rescue inhaler provides little or no relief, or if your symptoms are rapidly escalating. Regular follow-up with a healthcare provider is important for monitoring and adjusting your management plan to maintain good control and reduce the risk of complications.",
+    "questions_to_ask_doctor": [
+      "What should I do at the first sign of a flare?",
+      "When should I seek emergency care?",
+      "Should my regular treatment be stepped up?"
+    ],
+    "common_tests": [
+      "Peak flow",
+      "Oxygen saturation",
+      "Chest X-ray if infection is suspected"
+    ],
+    "sources": [
+      "NHS",
+      "WHO"
+    ]
+  },
+  {
+    "id": "copd",
+    "name": "COPD",
+    "aliases": [
+      "copd",
+      "chronic obstructive pulmonary disease",
+      "emphysema",
+      "chronic bronchitis",
+      "smoker's lung"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "COPD is a progressive lung disease characterized by long-term breathing problems and poor airflow. It encompasses conditions such as chronic bronchitis and emphysema, which often coexist. The primary cause is long-term exposure to lung irritants, most commonly cigarette smoke, though occupational dust, chemical fumes, and indoor air pollution also contribute. The disease involves ongoing inflammation that damages the airways and air sacs in the lungs, reducing their ability to exchange oxygen and carbon dioxide efficiently. COPD is a leading cause of death and disability worldwide, though early diagnosis and management can significantly improve quality of life.",
+    "common_symptoms": [
+      "smoking history",
+      "chronic productive cough",
+      "breathlessness",
+      "cough",
+      "wheezing",
+      "chest tightness",
+      "fatigue",
+      "frequent infections"
+    ],
+    "causes": "Long-term damage to the airways and lung tissue, most often from smoking or prolonged exposure to smoke and dust.",
+    "risk_factors": [
+      "Smoking",
+      "Biomass or cooking-smoke exposure",
+      "Occupational dust and fumes",
+      "Repeated childhood chest infections"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include chronic cough, increased mucus production, shortness of breath (especially during physical activity), wheezing, and chest tightness. Symptoms develop gradually and are often dismissed as normal aging or a consequence of smoking, leading to delayed diagnosis. As the disease progresses, breathlessness can occur even at rest, and individuals may experience frequent respiratory infections, fatigue, and unintended weight loss. Exacerbations, or flare-ups, can cause sudden worsening of symptoms and may require hospitalization.",
+    "self_care": "Typical symptoms include chronic cough, increased mucus production, shortness of breath (especially during physical activity), wheezing, and chest tightness. Symptoms develop gradually and are often dismissed as normal aging or a consequence of smoking, leading to delayed diagnosis. As the disease progresses, breathlessness can occur even at rest, and individuals may experience frequent respiratory infections, fatigue, and unintended weight loss. Exacerbations, or flare-ups, can cause sudden worsening of symptoms and may require hospitalization.",
+    "diet": {
+      "eat": "Eat small, frequent, nutrient-dense meals. Include protein-rich foods. Avoid gas-producing foods before bedtime. Stay well hydrated with warm fluids.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Quit smoking (most important). Practice pursed-lip breathing. Exercise as tolerated. Avoid air pollutants and dust. Get annual flu and pneumonia vaccines.",
+    "ayurvedic_caution": "COPD requires ongoing medical management. Follow your pulmonologist's advice strictly. This is general wellness information only.",
+    "complications": [
+      "Frequent chest infections",
+      "Low blood oxygen",
+      "Heart strain",
+      "Reduced exercise capacity"
+    ],
+    "condition_specific_red_flags": [
+      "Sudden worsening breathlessness",
+      "Confusion or drowsiness",
+      "Blue lips",
+      "Chest pain with breathlessness"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience persistent cough, increased mucus, or shortness of breath, especially if you are a current or former smoker. Early diagnosis through spirometry and other tests allows for timely intervention. If symptoms worsen suddenly or you develop fever, increased sputum, or difficulty breathing at rest, seek prompt medical attention, as these may indicate an exacerbation requiring urgent treatment.",
+    "questions_to_ask_doctor": [
+      "How severe is my airflow limitation?",
+      "What help is available to stop smoking?",
+      "Would pulmonary rehabilitation help?",
+      "Which vaccinations should I have?"
+    ],
+    "common_tests": [
+      "Spirometry",
+      "Chest X-ray",
+      "Oxygen saturation"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "cervical_spondylosis",
+    "name": "Cervical spondylosis",
+    "aliases": [
+      "neck spondylosis",
+      "cervical spine arthritis",
+      "neck arthritis",
+      "गर्दन का दर्द"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Cervical spondylosis is a degenerative condition affecting the cervical spine (neck), involving wear and tear of the vertebral discs, joints, and bones over time. It is a common age-related condition, often resulting from natural aging processes that cause disc dehydration, bone spur formation, and joint stiffness. Other contributing factors include poor posture, prolonged screen use, previous neck injuries, and occupations that involve repetitive neck movements. While many people with cervical spondylosis experience no symptoms, the condition can lead to chronic neck discomfort and other complications if the changes compress nearby nerves or the spinal cord.",
+    "common_symptoms": [
+      "back pain",
+      "weakness in limbs",
+      "neck pain",
+      "headache",
+      "dizziness",
+      "fatigue"
+    ],
+    "causes": "Age-related wear of the discs and joints of the neck.",
+    "risk_factors": [
+      "Older age",
+      "Prolonged poor posture",
+      "Previous neck injury",
+      "Heavy lifting"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include chronic neck pain and stiffness that may worsen with movement, pain that radiates into the shoulders or arms, numbness, tingling, or weakness in the hands and arms, and in some cases, headaches. The pain may be dull and constant or sharp and intermittent, particularly when turning the head or looking up. If nerve compression occurs, symptoms can become more pronounced and may affect daily activities like driving, working at a computer, or sleeping comfortably.",
+    "self_care": "Cervical spondylosis is a degenerative condition affecting the cervical spine (neck), involving wear and tear of the vertebral discs, joints, and bones over time. It is a common age-related condition, often resulting from natural aging processes that cause disc dehydration, bone spur formation, and joint stiffness. Other contributing factors include poor posture, prolonged screen use, previous neck injuries, and occupations that involve repetitive neck movements. While many people with cervical spondylosis experience no symptoms, the condition can lead to chronic neck discomfort and other complications if the changes compress nearby nerves or the spinal cord.",
+    "diet": {
+      "eat": "Eat anti-inflammatory foods: turmeric, ginger, leafy greens, berries. Avoid processed and fried foods. Stay well hydrated with warm water.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Practice gentle neck exercises and stretching. Maintain good posture. Use ergonomic workspace setup. Apply warm compresses. Avoid prolonged neck bending. Practice yoga.",
+    "ayurvedic_caution": "Consult an orthopedic specialist for progressive symptoms. This is general wellness information only.",
+    "complications": [
+      "Persistent neck pain",
+      "Nerve compression causing arm symptoms",
+      "Reduced neck movement"
+    ],
+    "condition_specific_red_flags": [
+      "Weakness or numbness in the arms or legs",
+      "Problems with balance or walking",
+      "Loss of bladder or bowel control",
+      "Neck pain after a fall"
+    ],
+    "when_to_see_doctor": "You should see a doctor if neck pain persists or worsens, if you experience numbness, tingling, or weakness in your arms or hands, if symptoms interfere with daily activities, or if you notice changes in coordination or balance. These symptoms may indicate nerve or spinal cord involvement, which requires prompt medical evaluation and appropriate management.",
+    "questions_to_ask_doctor": [
+      "Do my symptoms suggest nerve involvement?",
+      "Which exercises are safe?",
+      "How should I set up my desk and pillow?",
+      "Is imaging needed?"
+    ],
+    "common_tests": [
+      "Neck X-ray",
+      "MRI if nerve compression is suspected"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "chicken_pox",
+    "name": "Chicken pox",
+    "aliases": [
+      "chickenpox",
+      "varicella",
+      "chhoti mata",
+      "छोटी माता"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Chicken pox is a highly contagious viral infection caused by the varicella-zoster virus (VZV). It primarily affects children but can occur at any age, with adults and immunocompromised individuals at risk for more severe disease. The virus spreads easily through respiratory droplets or direct contact with the fluid from chicken pox blisters. Once infected, a person is contagious from about two days before the rash appears until all blisters have crusted over. Chicken pox is generally a self-limiting illness, but it can lead to complications in certain populations.",
+    "common_symptoms": [
+      "skin rash",
+      "moderate fever",
+      "malaise",
+      "loss of appetite",
+      "headache"
+    ],
+    "causes": "Infection with the varicella-zoster virus, spread by droplets and by contact with the blisters.",
+    "risk_factors": [
+      "Not previously infected or vaccinated",
+      "Close contact with a case",
+      "Childhood age group"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms begin with a mild fever, fatigue, headache, and general malaise, followed by the characteristic itchy, blister-like rash. The rash usually starts on the chest, back, and face before spreading to other parts of the body. Blisters progress through stages, from red bumps to fluid-filled vesicles that eventually burst and form scabs. The rash appears in successive waves over several days, so lesions at different stages of healing may be present simultaneously. Intense itching is a hallmark of the condition.",
+    "self_care": "General self-care guidance includes keeping the skin clean and cool to reduce itching, wearing loose-fitting clothing, and avoiding scratching to prevent secondary bacterial infections. Calamine lotion and cool baths may provide soothing relief. Adequate rest, hydration, and a nutritious diet support recovery. Isolating the infected individual from others, especially those who have not had chicken pox or the vaccine, is important to prevent spreading the infection.",
+    "diet": {
+      "eat": "Eat cooling, light foods. Include coconut water, fresh fruits, and soft-cooked vegetables. Avoid spicy, oily, and acidic foods that may increase itching.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest until all blisters have crusted over. Do not scratch blisters. Keep the skin clean and dry. Wear loose cotton clothing. Isolate until no longer contagious.",
+    "ayurvedic_caution": "Chicken pox can be serious in adults. Seek medical attention for high fever or complications. This is general wellness information only.",
+    "complications": [
+      "Skin infection where spots are scratched",
+      "Chest infection",
+      "More severe illness in adults, pregnancy and weakened immunity"
+    ],
+    "condition_specific_red_flags": [
+      "Difficulty breathing",
+      "Spots becoming hot, red and spreading",
+      "Severe headache with neck stiffness",
+      "Drowsiness or confusion",
+      "Chickenpox in pregnancy"
+    ],
+    "when_to_see_doctor": "You should see a doctor if symptoms are severe, if high fever persists, if blisters become infected or show signs of inflammation, or if complications such as difficulty breathing, confusion, or seizures occur. Infants, pregnant women, older adults, and immunocompromised individuals should seek medical attention promptly, as they are at higher risk for serious complications.",
+    "questions_to_ask_doctor": [
+      "How long am I infectious?",
+      "How do I relieve the itching safely?",
+      "Who around me is at risk?",
+      "When can I return to school or work?"
+    ],
+    "common_tests": [
+      "Usually diagnosed by appearance",
+      "Swab of a blister if confirmation is needed"
+    ],
+    "sources": [
+      "NHS",
+      "CDC"
+    ]
+  },
+  {
+    "id": "chronic_cholestasis",
+    "name": "Chronic cholestasis",
+    "aliases": [
+      "cholestasis",
+      "bile flow obstruction",
+      "blocked bile duct"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Chronic cholestasis is a condition characterized by a long-term reduction or blockage in the flow of bile from the liver. Bile is essential for the digestion and absorption of fats and fat-soluble vitamins, and its proper flow is critical for liver function. The condition can result from various causes, including liver diseases, bile duct disorders, or certain medications. Chronic cholestasis can lead to the accumulation of bile substances in the liver and bloodstream, potentially causing liver damage over time.",
+    "common_symptoms": [
+      "itching",
+      "pale stools",
+      "yellowing of eyes",
+      "yellowing of skin",
+      "vomiting",
+      "loss of appetite",
+      "abdominal pain"
+    ],
+    "causes": "Reduced or blocked flow of bile from the liver, which may follow duct disease, gallstones or certain medicines.",
+    "risk_factors": [
+      "Gallstones",
+      "Liver disease",
+      "Some medicines",
+      "Pregnancy in some cases"
+    ],
+    "is_contagious": false,
+    "typical_course": "Symptoms typically include persistent itching (pruritus), which can be particularly intense at night, yellowing of the skin and eyes (jaundice), dark urine, pale or clay-colored stools, and fatigue. Some individuals may experience unintended weight loss, poor appetite, or discomfort in the upper right abdomen. The itching associated with cholestasis can be debilitating and significantly affect quality of life. Symptoms tend to develop gradually and may fluctuate in intensity over time.",
+    "self_care": "General self-care guidance includes maintaining a balanced, low-fat diet, staying well-hydrated, and avoiding alcohol and unnecessary medications that could strain the liver. Keeping the skin moisturized can help alleviate itching, and wearing loose, comfortable clothing may reduce irritation. Regular follow-up with a healthcare provider is important to monitor liver function and address any nutritional deficiencies that may arise due to impaired bile flow.",
+    "diet": {
+      "eat": "Focus on a simple, warm, low-fat diet. Include boiled vegetables, rice, and mung dal. Avoid oily, fried, and heavy foods. Drink warm water throughout the day.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest adequately. Avoid physical overexertion. Maintain regular meal timing. Stay hydrated. Avoid alcohol completely.",
+    "ayurvedic_caution": "Seek medical evaluation for persistent jaundice or itching. This is general wellness information only.",
+    "complications": [
+      "Poor absorption of fats and vitamins",
+      "Liver scarring",
+      "Persistent severe itching"
+    ],
+    "condition_specific_red_flags": [
+      "Fever with yellowing of the eyes",
+      "Severe upper abdominal pain",
+      "Pale stools with dark urine",
+      "Confusion"
+    ],
+    "when_to_see_doctor": "You should seek medical attention if you notice persistent jaundice, severe or unrelenting itching, unexplained weight loss, or abdominal swelling. Blood tests and imaging studies can help determine the underlying cause and guide appropriate treatment. Early diagnosis and management are important to prevent complications such as liver cirrhosis or nutritional deficiencies.",
+    "questions_to_ask_doctor": [
+      "What is blocking the bile flow?",
+      "Could any of my medicines be responsible?",
+      "What can be done about the itching?",
+      "Which vitamins should be monitored?"
+    ],
+    "common_tests": [
+      "Liver function tests",
+      "Abdominal ultrasound",
+      "Bile duct imaging"
+    ],
+    "sources": [
+      "general medical knowledge - needs verification"
+    ]
+  },
+  {
+    "id": "common_cold",
+    "name": "Common Cold",
+    "aliases": [
+      "cold",
+      "common cold",
+      "sardi",
+      "sardi jukam",
+      "जुकाम"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "The common cold is a mild viral infection of the upper respiratory tract, most commonly caused by rhinoviruses. It is one of the most frequent illnesses worldwide and is highly contagious, spreading through respiratory droplets or direct contact with contaminated surfaces. While the common cold can occur at any time of year, it is more prevalent during colder months. Most people experience several colds per year, and the illness typically resolves within seven to ten days without medical intervention.",
+    "common_symptoms": [
+      "continuous sneezing",
+      "chills",
+      "fatigue",
+      "cough",
+      "runny nose",
+      "congestion",
+      "headache",
+      "sore throat"
+    ],
+    "causes": "Viral infection of the nose and throat, most often by rhinoviruses, spread by droplets and contaminated hands.",
+    "risk_factors": [
+      "Close contact with someone infected",
+      "Crowded indoor spaces",
+      "Cold season",
+      "Young children at home"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms include sneezing, runny or stuffy nose, sore throat, cough, mild headache, and sometimes a low-grade fever or body aches. Symptoms often start gradually and peak within the first few days before improving. The cough and congestion may linger for a week or more after other symptoms have subsided. Unlike the flu, the common cold generally does not cause high fever, severe body aches, or extreme fatigue.",
+    "self_care": "General self-care guidance includes getting plenty of rest, staying well-hydrated, and using over-the-counter remedies to manage symptoms as needed. Warm liquids, saline nasal sprays, and humidifiers can help relieve congestion and soothe a sore throat. Practicing good hand hygiene and avoiding close contact with others while symptomatic can reduce the spread of infection. There is no cure for the common cold, so treatment focuses on symptom relief and supporting the body's natural recovery process.",
+    "diet": {
+      "eat": "Drink warm water and herbal teas. Eat light, warm soups and broths. Avoid cold drinks, dairy, and heavy foods. Include ginger and honey in warm water.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest adequately. Stay warm. Keep the nasal passage clear with saline irrigation. Avoid sudden temperature changes. Wash hands frequently.",
+    "ayurvedic_caution": " ginger",
+    "complications": [
+      "Ear infection",
+      "Sinus infection",
+      "Flare-up of asthma"
+    ],
+    "condition_specific_red_flags": [
+      "Breathlessness or chest pain",
+      "Fever above 102F lasting more than three days",
+      "Severe headache with neck stiffness",
+      "Symptoms worsening after initially improving"
+    ],
+    "when_to_see_doctor": "You should see a doctor if symptoms are severe, last longer than ten days, or include high fever, difficulty breathing, or chest pain. These may indicate a secondary infection such as sinusitis or pneumonia, which may require medical treatment. Individuals with weakened immune systems, chronic lung conditions, or other health concerns should seek medical advice if they develop cold symptoms.",
+    "questions_to_ask_doctor": [
+      "How long should this last?",
+      "How do I avoid passing it on?",
+      "Which symptoms mean it is no longer just a cold?"
+    ],
+    "common_tests": [
+      "Usually none; diagnosed clinically"
+    ],
+    "sources": [
+      "NHS",
+      "CDC"
+    ]
+  },
+  {
+    "id": "dengue",
+    "name": "Dengue",
+    "aliases": [
+      "dengue",
+      "dengue fever",
+      "breakbone fever",
+      "डेंगू",
+      "haddi tod bukhar"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Dengue is a mosquito-borne viral infection caused by the dengue virus, which is transmitted to humans through the bites of infected Aedes mosquitoes, primarily Aedes aegypti. The disease is prevalent in tropical and subtropical regions worldwide, with outbreaks occurring in cycles. There are four serotypes of the virus, and infection with one serotype provides lifelong immunity to that serotype but only temporary protection against the others. Subsequent infections with different serotypes may increase the risk of severe dengue. The disease can affect anyone but tends to be more severe in children and adults with compromised immune systems.",
+    "common_symptoms": [
+      "skin rash",
+      "high fever",
+      "joint pain",
+      "vomiting",
+      "fatigue",
+      "headache",
+      "muscle pain"
+    ],
+    "causes": "Infection with dengue virus, spread by the bite of infected Aedes mosquitoes which bite mainly during the day.",
+    "risk_factors": [
+      "Living in or travelling to an area with dengue",
+      "Standing water near the home",
+      "Previous dengue infection"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include sudden onset of high fever, severe headache, pain behind the eyes, joint and muscle pain (often called \"breakbone fever\"), nausea, vomiting, and a characteristic skin rash that typically appears a few days after the fever begins. Some individuals may also experience mild bleeding from the nose or gums. In severe cases, dengue can progress to dengue hemorrhagic fever or dengue shock syndrome, which are life-threatening complications marked by severe abdominal pain, persistent vomiting, bleeding, and fluid accumulation. The critical phase usually occurs around the time the fever subsides.",
+    "self_care": "General self-care guidance focuses on managing symptoms and preventing dehydration. Drinking plenty of fluids, resting, and using appropriate fever-reducing measures can help. Avoiding aspirin and nonsteroidal anti-inflammatory drugs (NSAIDs) is recommended, as they may increase the risk of bleeding. Using mosquito repellent and wearing protective clothing can help prevent further mosquito bites and reduce transmission. Monitoring for warning signs of severe dengue is crucial.",
+    "diet": {
+      "eat": "Drink plenty of fluids including water, coconut water, and clear soups. Eat light, easily digestible meals. Include papaya leaves if available (traditional practice). Avoid oily and fried foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest completely. Monitor platelet counts if possible. Stay hydrated. Avoid aspirin and NSAIDs (use paracetamol for fever). Watch for warning signs like severe abdominal pain.",
+    "ayurvedic_caution": "Dengue can be life-threatening. Seek emergency care for severe symptoms like persistent vomiting",
+    "complications": [
+      "Bleeding",
+      "Dangerous drop in blood pressure",
+      "Low platelet count",
+      "Severe dengue, which is a medical emergency"
+    ],
+    "condition_specific_red_flags": [
+      "Severe abdominal pain",
+      "Persistent vomiting",
+      "Bleeding gums or nose",
+      "Blood in vomit or stool",
+      "Cold clammy skin or extreme restlessness"
+    ],
+    "when_to_see_doctor": "You should seek immediate medical attention if you experience severe abdominal pain, persistent vomiting, bleeding from gums or nose, blood in vomit or stool, rapid breathing, extreme fatigue, or restlessness. These may be signs of severe dengue, which requires prompt medical care. Early detection and proper medical management significantly improve outcomes.",
+    "questions_to_ask_doctor": [
+      "Do I need a blood test, and when?",
+      "What warning signs should I watch for at home?",
+      "Which pain relief is safe for me?",
+      "How much fluid should I drink?"
+    ],
+    "common_tests": [
+      "Dengue NS1 antigen",
+      "Dengue antibody test",
+      "Full blood count with platelets"
+    ],
+    "sources": [
+      "WHO",
+      "ICMR"
+    ]
+  },
+  {
+    "id": "depression",
+    "name": "Depression",
+    "aliases": [
+      "depression",
+      "low mood",
+      "clinical depression",
+      "udaasi",
+      "अवसाद"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Depression, also known as major depressive disorder, is a common and serious mental health condition that affects how a person feels, thinks, and handles daily activities. It is more than just feeling sad or going through a rough patch; depression involves persistent changes in mood, energy, and motivation that can last for weeks or longer. Contributing factors include genetic predisposition, brain chemistry imbalances, significant life events, chronic stress, and certain medical conditions. Depression can affect anyone, regardless of age, gender, or background, and is a leading cause of disability worldwide.",
+    "common_symptoms": [
+      "depression",
+      "fatigue",
+      "loss of appetite",
+      "insomnia",
+      "irritability",
+      "weight loss"
+    ],
+    "causes": "A combination of biological, psychological and social factors; it is an illness, not a personal weakness.",
+    "risk_factors": [
+      "Family history",
+      "Major life stress or loss",
+      "Chronic illness",
+      "Isolation",
+      "Substance use"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include persistent feelings of sadness, hopelessness, or emptiness, loss of interest or pleasure in activities once enjoyed, changes in appetite or weight, sleep disturbances (insomnia or oversleeping), fatigue, difficulty concentrating, feelings of worthlessness or excessive guilt, and in severe cases, thoughts of death or suicide. Symptoms usually occur most of the day, nearly every day, and represent a change from previous functioning. The severity and pattern of symptoms can vary widely, and some individuals may experience episodes that are triggered by specific events, while others develop depression without an identifiable cause.",
+    "self_care": "Typical symptoms include persistent feelings of sadness, hopelessness, or emptiness, loss of interest or pleasure in activities once enjoyed, changes in appetite or weight, sleep disturbances (insomnia or oversleeping), fatigue, difficulty concentrating, feelings of worthlessness or excessive guilt, and in severe cases, thoughts of death or suicide. Symptoms usually occur most of the day, nearly every day, and represent a change from previous functioning. The severity and pattern of symptoms can vary widely, and some individuals may experience episodes that are triggered by specific events, while others develop depression without an identifiable cause.",
+    "diet": {
+      "eat": "Eat regular, nutritious meals. Include omega-3 rich foods (walnuts, flaxseeds, fish). Avoid alcohol and excessive sugar. Stay well hydrated.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Exercise regularly (even walking helps). Maintain social connections. Follow a regular sleep schedule. Seek sunlight exposure daily. Practice mindfulness and meditation.",
+    "ayurvedic_caution": "If depression is persistent or severe",
+    "complications": [
+      "Difficulty working or studying",
+      "Relationship strain",
+      "Physical health decline",
+      "Risk of self-harm"
+    ],
+    "condition_specific_red_flags": [
+      "Thoughts of suicide or self-harm",
+      "Being unable to care for yourself",
+      "Hearing or seeing things others do not",
+      "Not eating or drinking"
+    ],
+    "when_to_see_doctor": "You should see a doctor or mental health professional if you experience persistent depressive symptoms, if they interfere with your ability to function, or if you have thoughts of self-harm or suicide. Depression is a treatable condition, and effective interventions, including therapy and other approaches, are available. If you or someone you know is in crisis, seek immediate help from emergency services or a crisis hotline.",
+    "questions_to_ask_doctor": [
+      "What treatment options do I have?",
+      "How long before I might feel better?",
+      "What should I do on a bad day?",
+      "Who can I contact in a crisis?"
+    ],
+    "common_tests": [
+      "Clinical assessment",
+      "Blood tests to exclude other causes such as thyroid or anaemia"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "diabetes",
+    "name": "Diabetes",
+    "aliases": [
+      "diabetes",
+      "sugar",
+      "sugar ki bimari",
+      "blood sugar",
+      "मधुमेह",
+      "diabetes mellitus",
+      "high sugar"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Diabetes is a chronic metabolic condition characterized by elevated blood sugar levels, resulting from the body's inability to produce or effectively use insulin. There are several types, with Type 1 diabetes involving an autoimmune destruction of insulin-producing cells, and Type 2 diabetes, the most common form, involving insulin resistance and relative insulin deficiency. Gestational diabetes occurs during pregnancy and usually resolves after delivery, though it increases the risk of developing Type 2 diabetes later in life. Factors such as genetics, obesity, sedentary lifestyle, and poor diet contribute to the development of Type 2 diabetes.",
+    "common_symptoms": [
+      "increased appetite",
+      "polyuria",
+      "weight loss",
+      "fatigue",
+      "blurred vision",
+      "obesity"
+    ],
+    "causes": "The body either does not make enough insulin or cannot use it properly, so glucose builds up in the blood.",
+    "risk_factors": [
+      "Family history",
+      "Excess weight",
+      "Physical inactivity",
+      "Older age",
+      "Gestational diabetes in the past"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, and slow-healing wounds. In Type 1 diabetes, symptoms often develop rapidly and can be severe. In Type 2 diabetes, symptoms may develop gradually and can go unnoticed for years, leading to delayed diagnosis. Some individuals may experience tingling or numbness in the hands and feet, dry skin, or recurrent infections. Blood sugar levels can fluctuate, and prolonged elevation can damage organs over time.",
+    "self_care": "General self-care guidance includes maintaining a balanced diet rich in whole grains, lean proteins, vegetables, and healthy fats, while limiting refined sugars and processed foods. Regular physical activity helps improve insulin sensitivity and supports healthy weight management. Monitoring blood sugar levels as recommended, taking prescribed medications consistently, and managing stress are key components of diabetes care. Foot care is particularly important, as poor circulation and nerve damage can increase the risk of complications.",
+    "diet": {
+      "eat": "Follow a low-glycemic diet. Include whole grains, bitter gourds, and fiber-rich vegetables. Avoid refined sugar, white rice, and processed foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Exercise regularly (walking",
+    "ayurvedic_caution": "Ayurvedic literature associates fenugreek and bitter gourd with blood sugar management support.",
+    "complications": [
+      "Eye, kidney and nerve damage",
+      "Foot ulcers",
+      "Heart and blood vessel disease"
+    ],
+    "condition_specific_red_flags": [
+      "Very high or very low sugar readings",
+      "Drowsiness or confusion",
+      "Fruity-smelling breath with vomiting",
+      "A foot wound that is not healing"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience symptoms of diabetes, if your blood sugar levels are consistently above or below target ranges, or if you develop complications such as foot ulcers, vision changes, or kidney problems. Regular check-ups with a healthcare provider are essential for monitoring and adjusting your management plan to prevent long-term complications.",
+    "questions_to_ask_doctor": [
+      "What are my target sugar levels?",
+      "How often should HbA1c be checked?",
+      "Which screening do I need for eyes, kidneys and feet?",
+      "How should I handle sick days?"
+    ],
+    "common_tests": [
+      "Fasting blood glucose",
+      "HbA1c",
+      "Urine protein",
+      "Eye and foot checks"
+    ],
+    "sources": [
+      "WHO",
+      "ICMR"
+    ]
+  },
+  {
+    "id": "diabetic_foot",
+    "name": "Diabetic foot",
+    "aliases": [
+      "diabetic foot ulcer",
+      "foot ulcer",
+      "diabetic wound",
+      "pair ka ghaav"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Diabetic foot refers to a range of foot problems that can affect individuals with diabetes, primarily resulting from nerve damage (neuropathy) and poor blood flow (peripheral artery disease) in the lower extremities. High blood sugar levels over time can damage nerves, reducing sensation in the feet, and can impair circulation, slowing the healing of cuts and sores. These conditions make the feet highly susceptible to injuries, infections, and ulcers that may not be noticed or may heal poorly. Diabetic foot complications are a leading cause of hospitalization and amputation among people with diabetes, making prevention and early detection critical.",
+    "common_symptoms": [
+      "numbness",
+      "slow healing",
+      "skin changes",
+      "swelling",
+      "pain",
+      "foul smelling wound"
+    ],
+    "causes": "Nerve damage and reduced blood supply from long-standing diabetes, which lets small injuries become ulcers.",
+    "risk_factors": [
+      "Long-standing or poorly controlled diabetes",
+      "Loss of sensation in the feet",
+      "Poor circulation",
+      "Ill-fitting footwear",
+      "Previous ulcer"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include numbness or tingling in the feet, reduced ability to feel pain, temperature changes, or pressure, dry and cracked skin, changes in foot shape, slow-healing sores or cuts, blisters, calluses, and in more advanced cases, signs of infection such as redness, swelling, warmth, drainage, or foul odor. Because neuropathy can mask pain, injuries may go unnoticed until they become serious. Poor circulation can further complicate healing and increase the risk of infection spreading.",
+    "self_care": "General self-care guidance is essential for preventing diabetic foot complications. Daily foot inspections to check for cuts, blisters, or changes in skin are important, as is wearing properly fitting, comfortable shoes and socks. Keeping the feet clean and moisturized (avoiding the area between the toes), trimming toenails carefully, and avoiding walking barefoot reduce the risk of injury. Managing blood sugar levels effectively supports nerve and blood vessel health. Regular foot examinations by a healthcare provider are recommended.",
+    "diet": {
+      "eat": "Follow a balanced diabetic diet. Control blood sugar through diet. Include foods rich in vitamin C and zinc for wound healing. Stay well hydrated.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Inspect feet daily for cuts",
+    "ayurvedic_caution": " or redness. Wear well-fitting",
+    "complications": [
+      "Deep infection",
+      "Bone infection",
+      "Tissue death",
+      "Amputation if neglected"
+    ],
+    "condition_specific_red_flags": [
+      "Spreading redness or swelling",
+      "Foul-smelling discharge",
+      "Fever with a foot wound",
+      "Black tissue",
+      "Sudden severe foot pain"
+    ],
+    "when_to_see_doctor": "You should see a doctor immediately if you notice any open sores, signs of infection, non-healing wounds, or changes in the color or temperature of your feet. Early medical intervention can prevent minor issues from becoming serious complications. Individuals with diabetes should have regular foot assessments as part of their overall diabetes care to catch problems early and maintain foot health.",
+    "questions_to_ask_doctor": [
+      "How should this wound be dressed?",
+      "Do I need to stay off the foot?",
+      "Is my circulation adequate?",
+      "How often should my feet be checked?"
+    ],
+    "common_tests": [
+      "Wound assessment",
+      "Foot pulses and sensation testing",
+      "Wound swab",
+      "X-ray if bone involvement is suspected"
+    ],
+    "sources": [
+      "NHS",
+      "WHO"
+    ]
+  },
+  {
+    "id": "hemorrhoids",
+    "name": "Dimorphic hemmorhoids(piles)",
+    "aliases": [
+      "piles",
+      "haemorrhoids",
+      "hemorrhoids",
+      "bawaseer",
+      "बवासीर",
+      "pile"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Hemorrhoids, commonly known as piles, are swollen blood vessels in the lower rectum or around the anus. They can be internal, located inside the rectum, or external, found under the skin around the anus. Hemorrhoids are a very common condition, affecting a large proportion of adults at some point in their lives. Contributing factors include chronic constipation or diarrhea, straining during bowel movements, prolonged sitting on the toilet, pregnancy, obesity, and a low-fiber diet. The condition can range from mild and intermittent to chronic and significantly uncomfortable.",
+    "common_symptoms": [
+      "constipation",
+      "pain during bowel movement",
+      "bloody stool",
+      "anal discomfort",
+      "swelling"
+    ],
+    "causes": "Swollen blood vessels in and around the back passage, commonly from straining, constipation or prolonged sitting.",
+    "risk_factors": [
+      "Constipation and straining",
+      "Low-fibre diet",
+      "Pregnancy",
+      "Prolonged sitting",
+      "Heavy lifting"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include painless bleeding during bowel movements, itching or irritation around the anal area, discomfort or pain when sitting, swelling near the anus, and in the case of external hemorrhoids, a hard, tender lump. Internal hemorrhoids may protrude outside the anus, causing pain and swelling. Symptoms can flare up during periods of constipation or straining and may improve with dietary changes and lifestyle modifications. Chronic hemorrhoids can significantly affect quality of life and may require medical intervention.",
+    "self_care": "General self-care guidance includes increasing dietary fiber intake through fruits, vegetables, and whole grains to soften stool and reduce straining, drinking plenty of water, and engaging in regular physical activity to promote healthy bowel movements. Sitz baths, warm compresses, and over-the-counter topical treatments may provide symptomatic relief. Avoiding prolonged sitting on the toilet and straining during bowel movements can help prevent worsening of symptoms.",
+    "diet": {
+      "eat": "Eat high-fiber foods: fruits, vegetables, whole grains, and legumes. Drink plenty of water. Avoid spicy, fried, and processed foods. Include warm water with lemon in the morning.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Avoid prolonged sitting. Practice gentle exercise. Do not strain during bowel movements. Use a sitz bath for comfort. Maintain regular toilet habits. Manage stress.",
+    "ayurvedic_caution": "Consult a doctor for persistent or severe hemorrhoids. This is general wellness information only.",
+    "complications": [
+      "Ongoing bleeding and anaemia",
+      "Painful clotted pile",
+      "Prolapse"
+    ],
+    "condition_specific_red_flags": [
+      "Heavy or continuous bleeding",
+      "Dizziness or fainting with bleeding",
+      "Severe anal pain",
+      "A change in bowel habit lasting weeks",
+      "Unexplained weight loss"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience rectal bleeding, if symptoms persist despite home care, if you notice a painful lump near the anus, or if discomfort significantly impacts your daily activities. A healthcare provider can confirm the diagnosis, rule out other conditions, and recommend appropriate treatment options ranging from lifestyle modifications to medical procedures.",
+    "questions_to_ask_doctor": [
+      "Is the bleeding definitely from piles?",
+      "Do I need an examination to rule out other causes?",
+      "How can I soften my stools?",
+      "When is a procedure considered?"
+    ],
+    "common_tests": [
+      "Clinical examination",
+      "Proctoscopy",
+      "Colonoscopy if other causes need excluding"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "drug_reaction",
+    "name": "Drug Reaction",
+    "aliases": [
+      "drug allergy",
+      "medicine reaction",
+      "adverse drug reaction",
+      "dawa se reaction"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "A drug reaction refers to an adverse response to a medication, which can range from mild side effects to severe, life-threatening conditions. Drug reactions may occur due to an allergic immune response, idiosyncratic sensitivity, or as a direct toxic effect of the medication. They can happen with prescription drugs, over-the-counter medications, or herbal supplements. The timing of a reaction can vary, appearing soon after starting a medication or even after prolonged use.",
+    "common_symptoms": [
+      "itching",
+      "skin rash",
+      "stomach pain",
+      "burning micturition",
+      "face swelling"
+    ],
+    "causes": "An unwanted immune or toxic response to a medicine.",
+    "risk_factors": [
+      "Previous drug reaction",
+      "Multiple medicines",
+      "Certain antibiotics and anticonvulsants",
+      "Known allergies"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms depend on the type and severity of the reaction. Common presentations include skin rashes, hives, itching, fever, swelling of the face or lips, and digestive symptoms such as nausea or diarrhea. In more severe cases, individuals may experience difficulty breathing, a rapid heartbeat, dizziness, or swelling of the throat. Rare but serious reactions can affect the liver, kidneys, or blood cells. The pattern of symptoms often correlates with the timing of medication use.",
+    "self_care": "General self-care guidance includes carefully reading medication labels and inform healthcare providers of any known allergies or previous reactions. If a mild reaction occurs, stopping the suspected medication (if safe to do so) and consulting a healthcare provider is recommended. Keeping a record of all medications, supplements, and any reactions experienced can help prevent future incidents. Avoid taking medications that have previously caused a reaction without medical guidance.",
+    "diet": {
+      "eat": "Eat light, easily digestible foods. Stay well hydrated. Avoid spicy and acidic foods that may worsen skin reactions.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest and avoid known triggers. Keep skin cool and moisturized. Avoid scratching affected areas. Identify and discontinue the suspected drug only under medical guidance.",
+    "ayurvedic_caution": "Consult your prescribing doctor immediately about any drug reaction. This is general wellness information only.",
+    "complications": [
+      "Severe skin reactions",
+      "Liver or kidney injury",
+      "Anaphylaxis"
+    ],
+    "condition_specific_red_flags": [
+      "Swelling of the face, lips or tongue",
+      "Difficulty breathing",
+      "Blistering or peeling skin",
+      "Skin pain with fever",
+      "Sores in the mouth or eyes"
+    ],
+    "when_to_see_doctor": "You should seek immediate medical attention if you experience severe symptoms such as difficulty breathing, swelling of the face or throat, widespread rash, high fever, or signs of a serious systemic reaction. Prompt evaluation is critical, as some drug reactions can escalate quickly. A healthcare provider can determine whether the reaction is allergic or otherwise, and recommend safe alternatives for your treatment.",
+    "questions_to_ask_doctor": [
+      "Which medicine is most likely responsible?",
+      "Should I stop it, and what do I use instead?",
+      "Should this be recorded as an allergy?",
+      "What should I avoid in future?"
+    ],
+    "common_tests": [
+      "Clinical assessment",
+      "Blood tests for organ involvement",
+      "Allergy referral in selected cases"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "fungal_infection",
+    "name": "Fungal infection",
+    "aliases": [
+      "fungal infection",
+      "ringworm",
+      "dad",
+      "daad",
+      "दाद",
+      "tinea",
+      "skin fungus"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Fungal infections are common skin and mucosal conditions caused by various types of fungi, including dermatophytes and yeasts. They thrive in warm, moist environments and can affect areas such as the feet, groin, scalp, nails, and skin folds. Factors like poor hygiene, excessive sweating, wearing tight clothing, and a weakened immune system can increase susceptibility. Fungal infections are generally not life-threatening but can be persistent and uncomfortable if left untreated.",
+    "common_symptoms": [
+      "itching",
+      "skin rash",
+      "nodal eruptions",
+      "dischromic patches",
+      "skin peeling"
+    ],
+    "causes": "Infection of the skin, nails or scalp by fungi, favoured by warmth, sweat and moisture.",
+    "risk_factors": [
+      "Hot humid weather",
+      "Sweating and tight clothing",
+      "Sharing towels or combs",
+      "Diabetes",
+      "Weakened immunity"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms include redness, itching, burning, and flaking or peeling of the affected skin. In some cases, circular patches with raised edges may appear, and the skin may develop blisters or become cracked. Nail fungal infections can cause thickened, discolored, and brittle nails. The symptoms often worsen in warm, humid conditions and may spread to surrounding areas if not addressed promptly.",
+    "self_care": "General self-care guidance includes keeping the affected area clean and dry, wearing breathable fabrics, and avoiding sharing personal items such as towels or clothing. Over-the-counter antifungal creams or powders may help manage mild cases. It is important to complete the full course of any treatment to prevent recurrence. Maintaining good hygiene practices and reducing moisture buildup can significantly lower the risk of developing fungal infections.",
+    "diet": {
+      "eat": "Keep diet light and fresh. Avoid fermented, sour, and sugary foods. Include bitter greens like neem leaves and turmeric in cooking.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Keep the affected area clean and dry. Wear breathable cotton clothing. Avoid excessive humidity and sharing personal items.",
+    "ayurvedic_caution": "Consult a dermatologist for persistent fungal infections. This is general wellness information only.",
+    "complications": [
+      "Spread to other body areas or household members",
+      "Secondary bacterial infection",
+      "Nail involvement"
+    ],
+    "condition_specific_red_flags": [
+      "Rapidly spreading redness with fever",
+      "Pus and marked swelling",
+      "Fungal infection with uncontrolled diabetes",
+      "Scalp involvement with hair loss"
+    ],
+    "when_to_see_doctor": "You should see a doctor if the infection does not improve with over-the-counter treatments, if it spreads rapidly, if there is significant pain or swelling, or if you have a weakened immune system or diabetes. Recurrent infections may also require medical evaluation to rule out underlying conditions and ensure appropriate treatment.",
+    "questions_to_ask_doctor": [
+      "How long does treatment usually take?",
+      "How do I stop it spreading at home?",
+      "Why does it keep coming back?",
+      "Do my nails need separate treatment?"
+    ],
+    "common_tests": [
+      "Skin scraping for microscopy",
+      "Fungal culture"
+    ],
+    "sources": [
+      "NHS",
+      "CDC"
+    ]
+  },
+  {
+    "id": "gerd",
+    "name": "GERD",
+    "aliases": [
+      "gerd",
+      "acid reflux",
+      "acidity",
+      "heartburn",
+      "reflux",
+      "खट्टी डकार",
+      "gas ki problem"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "GERD is a chronic digestive condition where stomach acid frequently flows back into the esophagus, the tube connecting the mouth and stomach. This backwash, known as acid reflux, irritates the lining of the esophagus. Occasional acid reflux is common, but when it occurs regularly and causes discomfort, it may be diagnosed as GERD. Contributing factors include obesity, pregnancy, smoking, and certain dietary habits. Weakening of the lower esophageal sphincter, a muscle that normally prevents acid from flowing backward, plays a central role in the condition.",
+    "common_symptoms": [
+      "stomach pain",
+      "acidity",
+      "ulcers on tongue",
+      "vomiting",
+      "cough",
+      "chest pain"
+    ],
+    "causes": "Stomach acid flowing back into the food pipe because the valve between them does not close effectively.",
+    "risk_factors": [
+      "Excess weight",
+      "Large or late meals",
+      "Spicy or fatty food",
+      "Smoking and alcohol",
+      "Pregnancy"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include a burning sensation in the chest (heartburn), especially after eating or at night, regurgitation of food or sour liquid, difficulty swallowing, and a sensation of a lump in the throat. Some people may experience chronic cough, laryngitis, or worsened asthma symptoms, particularly when lying down. Symptoms often worsen after large meals, when bending over, or when lying down shortly after eating. The frequency and severity of symptoms can vary widely among individuals.",
+    "self_care": "General self-care guidance focuses on lifestyle and dietary modifications. Eating smaller, more frequent meals and avoiding known trigger foods such as spicy, fatty, or acidic items can help. Elevating the head of the bed, avoiding lying down shortly after eating, maintaining a healthy weight, and quitting smoking are recommended strategies. Wearing loose-fitting clothing and managing stress may also reduce symptom frequency.",
+    "diet": {
+      "eat": "Eat warm, freshly cooked, easily digestible meals. Avoid spicy, fried, acidic, and caffeine-containing foods. Do not lie down immediately after eating.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Maintain upright posture after meals. Eat at regular intervals. Manage stress. Avoid late-night eating. Practice gentle walking after meals.",
+    "ayurvedic_caution": "Consult a healthcare professional if symptoms persist or worsen. This is general wellness information only.",
+    "complications": [
+      "Inflammation of the food pipe",
+      "Narrowing",
+      "Disturbed sleep",
+      "Dental erosion"
+    ],
+    "condition_specific_red_flags": [
+      "Difficulty or pain on swallowing",
+      "Vomiting blood or black stools",
+      "Unintended weight loss",
+      "Chest pain spreading to the arm or jaw"
+    ],
+    "when_to_see_doctor": "You should see a doctor if symptoms occur twice a week or more, if over-the-counter treatments do not provide relief, or if you experience difficulty swallowing, unexplained weight loss, or vomiting blood. Persistent GERD can lead to complications such as esophagitis or changes in the esophageal lining, so medical evaluation is important for proper diagnosis and long-term management.",
+    "questions_to_ask_doctor": [
+      "Which foods and habits should I change first?",
+      "Do my symptoms need an endoscopy?",
+      "Could my chest pain be from the heart?",
+      "How long should treatment continue?"
+    ],
+    "common_tests": [
+      "Clinical assessment",
+      "Endoscopy where warning features are present"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "gastroenteritis",
+    "name": "Gastroenteritis",
+    "aliases": [
+      "stomach flu",
+      "stomach infection",
+      "food poisoning",
+      "pet kharab",
+      "दस्त"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Gastroenteritis, commonly known as the stomach flu, is an inflammation of the stomach and intestines, usually caused by viral or bacterial infections. Common culprits include norovirus, rotavirus, and bacterial pathogens such as Salmonella or E. coli. It is highly contagious and can spread through contaminated food or water, close contact with infected individuals, or touching contaminated surfaces. The condition can occur at any age but is particularly common in children and those in crowded settings.",
+    "common_symptoms": [
+      "vomiting",
+      "loss of appetite",
+      "nausea",
+      "diarrhea",
+      "abdominal pain",
+      "high fever"
+    ],
+    "causes": "Infection of the stomach and bowel, usually viral but sometimes bacterial, often from contaminated food or water.",
+    "risk_factors": [
+      "Contaminated food or water",
+      "Close contact with a case",
+      "Poor hand hygiene",
+      "Travel"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms include nausea, vomiting, diarrhea, abdominal cramps, and sometimes fever. The onset is usually sudden, and symptoms can range from mild to severe. Dehydration is a significant concern, especially in young children, older adults, and individuals with weakened immune systems. Signs of dehydration include dry mouth, reduced urine output, dizziness, and fatigue. Symptoms generally resolve within a few days, but bacterial infections may last longer and require medical attention.",
+    "self_care": "Typical symptoms include nausea, vomiting, diarrhea, abdominal cramps, and sometimes fever. The onset is usually sudden, and symptoms can range from mild to severe. Dehydration is a significant concern, especially in young children, older adults, and individuals with weakened immune systems. Signs of dehydration include dry mouth, reduced urine output, dizziness, and fatigue. Symptoms generally resolve within a few days, but bacterial infections may last longer and require medical attention.",
+    "diet": {
+      "eat": "Begin with clear fluids and BRAT diet (bananas, rice, applesauce, toast). Avoid dairy, caffeine, and spicy foods until recovered. Sip warm water or electrolyte solutions.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest adequately. Wash hands frequently. Stay isolated if infectious. Rehydrate gradually. Avoid solid food until vomiting subsides.",
+    "ayurvedic_caution": "Seek medical care if symptoms persist beyond 48 hours or if dehydration occurs. This is general wellness information only.",
+    "complications": [
+      "Dehydration",
+      "Electrolyte disturbance",
+      "Greater risk in infants and older adults"
+    ],
+    "condition_specific_red_flags": [
+      "Signs of dehydration such as very little urine or dizziness on standing",
+      "Blood in the stool",
+      "Persistent vomiting with no fluids kept down",
+      "High fever",
+      "Severe constant abdominal pain"
+    ],
+    "when_to_see_doctor": "You should see a doctor if symptoms are severe or persist beyond a few days, if there is blood in the stool, if you cannot keep fluids down, or if signs of dehydration are present. Infants, older adults, and immunocompromised individuals should seek medical attention promptly, as they are at higher risk for complications.",
+    "questions_to_ask_doctor": [
+      "How do I rehydrate properly?",
+      "When is a stool test needed?",
+      "When can I return to work or school?",
+      "What should I eat while recovering?"
+    ],
+    "common_tests": [
+      "Usually none",
+      "Stool test if severe, bloody or prolonged"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "gout",
+    "name": "Gout",
+    "aliases": [
+      "gout",
+      "gouty arthritis",
+      "uric acid problem",
+      "yurik acid"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Gout is a form of inflammatory arthritis caused by the accumulation of uric acid crystals in the joints, leading to sudden and severe episodes of pain, swelling, redness, and tenderness. Uric acid is a waste product formed when the body breaks down purines, which are found in certain foods and are also produced naturally by the body. When uric acid levels become too high, crystals can deposit in joints and surrounding tissues. Risk factors include a diet rich in red meat, shellfish, and alcohol (especially beer), obesity, certain medications, kidney disease, and a family history of gout. The condition most commonly affects the big toe but can occur in other joints as well.",
+    "common_symptoms": [
+      "joint pain",
+      "joint swelling",
+      "redness",
+      "warmth",
+      "tenderness",
+      "fever"
+    ],
+    "causes": "Uric acid crystals forming in a joint, causing sudden intense inflammation.",
+    "risk_factors": [
+      "High uric acid levels",
+      "Red meat and seafood",
+      "Alcohol, especially beer",
+      "Sugary drinks",
+      "Kidney problems",
+      "Family history"
+    ],
+    "is_contagious": false,
+    "typical_course": "A typical gout attack begins suddenly, often at night, with intense joint pain that is most severe within the first 24 hours. The affected joint becomes red, swollen, warm, and extremely tender, making even light pressure unbearable. Attacks may last days to weeks, and without treatment, recurrent episodes can lead to joint damage and the formation of tophi, which are lumps of uric acid crystals under the skin. Between attacks, individuals may feel normal, but repeated flare-ups can become more frequent and affect more joints over time.",
+    "self_care": "General self-care guidance includes staying well-hydrated, limiting alcohol consumption (especially beer), reducing intake of high-purine foods such as red meat and shellfish, and maintaining a healthy weight. During an attack, resting the affected joint, applying ice packs, and elevating the joint can help reduce pain and swelling. Medications to lower uric acid levels may be prescribed for long-term management to prevent future attacks.",
+    "diet": {
+      "eat": "Limit purine-rich foods (red meat, organ meats, shellfish). Drink plenty of water. Avoid alcohol, especially beer. Include cherries, berries, and low-fat dairy. Eat whole grains.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Maintain healthy weight. Stay well hydrated. Avoid sudden weight loss. Exercise regularly. Rest the affected joint during attacks. Apply cold compresses for acute pain.",
+    "ayurvedic_caution": "Gout requires medical management. Consult a rheumatologist for persistent attacks. This is general wellness information only.",
+    "complications": [
+      "Repeated attacks",
+      "Joint damage",
+      "Uric acid kidney stones",
+      "Lumps of crystal under the skin"
+    ],
+    "condition_specific_red_flags": [
+      "A hot swollen joint with fever and chills",
+      "More than one joint suddenly affected",
+      "Inability to move the joint at all"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience sudden, severe joint pain, especially if accompanied by fever, or if gout attacks become more frequent. A healthcare provider can confirm the diagnosis through joint fluid analysis or blood tests and recommend appropriate treatment to manage acute attacks and reduce uric acid levels to prevent complications such as joint damage and kidney stones.",
+    "questions_to_ask_doctor": [
+      "Is this gout or an infected joint?",
+      "Which foods and drinks matter most?",
+      "Should my uric acid be treated long term?",
+      "How do I manage a future attack?"
+    ],
+    "common_tests": [
+      "Serum uric acid",
+      "Joint fluid examination",
+      "Kidney function tests"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "heart_attack",
+    "name": "Heart attack",
+    "aliases": [
+      "heart attack",
+      "myocardial infarction",
+      "mi",
+      "cardiac arrest",
+      "dil ka daura",
+      "दिल का दौरा"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "A heart attack, also known as a myocardial infarction, occurs when blood flow to a part of the heart muscle is blocked, usually by a blood clot in a coronary artery. This blockage deprives the heart muscle of oxygen and nutrients, leading to damage or death of heart tissue. The most common cause is coronary artery disease, in which plaque builds up in the arteries over time. Risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, and a family history of heart disease. Heart attacks can occur suddenly or may develop gradually with worsening symptoms.",
+    "common_symptoms": [
+      "chest pain",
+      "breathlessness",
+      "sweating",
+      "nausea",
+      "dizziness",
+      "vomiting"
+    ],
+    "causes": "Blood flow to part of the heart muscle is suddenly blocked, usually by a clot in a narrowed coronary artery.",
+    "risk_factors": [
+      "Smoking",
+      "High blood pressure",
+      "Diabetes",
+      "High cholesterol",
+      "Family history",
+      "Obesity and inactivity"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include chest pain or discomfort that may feel like pressure, squeezing, or fullness, and can radiate to the arms, back, neck, jaw, or stomach. Other symptoms may include shortness of breath, cold sweat, nausea, lightheadedness, and unusual fatigue. Symptoms can vary significantly between individuals, and women may experience atypical symptoms such as nausea, back pain, or jaw pain more frequently than men. Some heart attacks occur without any warning symptoms, known as silent heart attacks.",
+    "self_care": "Immediate action is critical during a heart attack. Call emergency services without delay and chew aspirin if recommended by a dispatcher or healthcare professional. Do not drive yourself to the hospital. Time is muscle, and the longer the heart is deprived of blood flow, the greater the damage. Emergency treatment aims to restore blood flow as quickly as possible through medications or procedures such as angioplasty.",
+    "diet": {
+      "eat": "After recovery, follow a heart-healthy diet: low salt, low fat, rich in fruits, vegetables, and whole grains. Avoid processed foods, excess sugar, and saturated fats.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Exercise regularly as cleared by your cardiologist. Manage stress. Take prescribed medications. Quit smoking. Monitor blood pressure and cholesterol. Maintain healthy weight.",
+    "ayurvedic_caution": "This is a life-threatening emergency. Always call emergency services immediately. Follow cardiologist advice strictly. This is general wellness information only.",
+    "complications": [
+      "Heart rhythm disturbance",
+      "Heart failure",
+      "Cardiac arrest",
+      "Death without prompt treatment"
+    ],
+    "condition_specific_red_flags": [
+      "Chest pain or pressure lasting more than a few minutes",
+      "Pain spreading to the arm, jaw, neck or back",
+      "Breathlessness with sweating",
+      "Nausea with chest discomfort",
+      "Collapse"
+    ],
+    "when_to_see_doctor": "Immediate action is critical during a heart attack. Call emergency services without delay and chew aspirin if recommended by a dispatcher or healthcare professional. Do not drive yourself to the hospital. Time is muscle, and the longer the heart is deprived of blood flow, the greater the damage. Emergency treatment aims to restore blood flow as quickly as possible through medications or procedures such as angioplasty.",
+    "questions_to_ask_doctor": [
+      "Call emergency services first - ask questions afterwards.",
+      "What caused this and how is further risk reduced?",
+      "What activity is safe during recovery?",
+      "Is cardiac rehabilitation available?"
+    ],
+    "common_tests": [
+      "ECG",
+      "Cardiac troponin blood test",
+      "Coronary angiography"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "hepatitis_a",
+    "name": "Hepatitis A",
+    "aliases": [
+      "hepatitis a",
+      "hep a",
+      "infectious hepatitis",
+      "peelia",
+      "jaundice from food"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Hepatitis A is a highly contagious liver infection caused by the hepatitis A virus (HAV). It is primarily transmitted through the fecal-oral route, often via contaminated food or water, close contact with an infected person, or poor sanitation practices. The infection is common in areas with inadequate hygiene infrastructure and can occur in outbreaks in settings such as daycare centers or communities with poor sanitation. Hepatitis A is generally self-limiting and does not cause chronic liver disease, but it can be severe in older adults and those with pre-existing liver conditions.",
+    "common_symptoms": [
+      "yellowing of eyes",
+      "recent contaminated food",
+      "joint pain",
+      "vomiting",
+      "fatigue",
+      "high fever",
+      "loss of appetite"
+    ],
+    "causes": "Infection of the liver with hepatitis A virus, spread through contaminated food or water.",
+    "risk_factors": [
+      "Unsafe food or water",
+      "Poor sanitation",
+      "Close contact with a case",
+      "Travel to areas with poor sanitation"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms typically appear two to six weeks after exposure and include fatigue, fever, nausea, abdominal pain (especially in the upper right side), dark urine, pale or clay-colored stools, jaundice, and loss of appetite. Some individuals, particularly young children, may have mild or no symptoms, while adults often experience more pronounced illness. Most people recover fully within a few weeks to months without specific treatment, and lifelong immunity usually develops after infection.",
+    "self_care": "General self-care guidance includes practicing good hygiene, such as thorough handwashing, avoiding contaminated food and water, and ensuring proper sanitation. Vaccination is the most effective preventive measure and is recommended for travelers to endemic areas, individuals in high-risk groups, and those with chronic liver disease. If infected, rest, adequate hydration, and a nutritious diet support recovery. Avoiding alcohol and unnecessary medications that may stress the liver is important during recovery.",
+    "diet": {
+      "eat": "Eat warm, light, easily digestible meals. Avoid oily, fried, and spicy foods. Include fresh fruits, vegetables, and dal. Drink plenty of warm water.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest adequately. Avoid alcohol completely. Do not overexert. Maintain regular meal times. Stay hydrated. Follow hand hygiene practices.",
+    "ayurvedic_caution": "Hepatitis A usually resolves on its own but requires medical monitoring. This is general wellness information only.",
+    "complications": [
+      "Prolonged fatigue",
+      "Rarely, severe liver inflammation"
+    ],
+    "condition_specific_red_flags": [
+      "Confusion or drowsiness",
+      "Vomiting blood",
+      "Deep yellowing with bruising",
+      "Unable to keep fluids down"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you develop symptoms such as jaundice, severe nausea, persistent abdominal pain, or if symptoms do not improve over time. Blood tests can confirm the diagnosis, and medical evaluation is important to rule out other causes of liver inflammation and to monitor for complications, particularly in vulnerable populations.",
+    "questions_to_ask_doctor": [
+      "How long will recovery take?",
+      "How do I avoid passing it on?",
+      "Should my household be vaccinated?",
+      "Which medicines should I avoid?"
+    ],
+    "common_tests": [
+      "Hepatitis A antibody test",
+      "Liver function tests"
+    ],
+    "sources": [
+      "WHO",
+      "CDC"
+    ]
+  },
+  {
+    "id": "hepatitis_b",
+    "name": "Hepatitis B",
+    "aliases": [
+      "hepatitis b",
+      "hep b",
+      "hbv",
+      "hbsag positive"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Hepatitis B is a liver infection caused by the hepatitis B virus (HBV), which can become chronic and lead to serious liver complications. The virus is transmitted through contact with infected blood, semen, or other bodily fluids, and can be passed from mother to child during childbirth, through sharing needles or personal items contaminated with blood, or through unprotected sexual contact. Chronic hepatitis B increases the risk of liver cirrhosis, liver failure, and liver cancer. The virus can persist in the body for years or even a lifetime, sometimes without causing obvious symptoms.",
+    "common_symptoms": [
+      "unsafe injection exposure",
+      "dark urine",
+      "fatigue",
+      "vomiting",
+      "nausea",
+      "loss of appetite",
+      "abdominal pain",
+      "high fever"
+    ],
+    "causes": "Infection of the liver with hepatitis B virus, spread through blood and body fluids.",
+    "risk_factors": [
+      "Unsterile injections or procedures",
+      "Unprotected sex",
+      "Mother-to-child transmission",
+      "Sharing razors or needles"
+    ],
+    "is_contagious": true,
+    "typical_course": "Acute hepatitis B may present with fatigue, fever, nausea, abdominal pain, dark urine, jaundice, and joint pain. Many people, especially children, may not experience symptoms during the initial infection but can still carry and transmit the virus. Chronic hepatitis B often remains asymptomatic for years, during which time liver damage may silently progress. Regular monitoring is essential for those with chronic infection, as complications can develop without warning.",
+    "self_care": "Hepatitis B is a liver infection caused by the hepatitis B virus (HBV), which can become chronic and lead to serious liver complications. The virus is transmitted through contact with infected blood, semen, or other bodily fluids, and can be passed from mother to child during childbirth, through sharing needles or personal items contaminated with blood, or through unprotected sexual contact. Chronic hepatitis B increases the risk of liver cirrhosis, liver failure, and liver cancer. The virus can persist in the body for years or even a lifetime, sometimes without causing obvious symptoms.",
+    "diet": {
+      "eat": "Follow a liver-friendly diet: avoid alcohol, fried foods, and processed items. Eat fresh fruits, vegetables, whole grains, and lean protein. Stay well hydrated.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest as needed. Avoid alcohol completely. Do not share personal items (razors",
+    "ayurvedic_caution": "Ayurvedic traditions mention phyllanthus for liver wellness support.",
+    "complications": [
+      "Long-term (chronic) infection",
+      "Liver scarring",
+      "Liver cancer in chronic cases"
+    ],
+    "condition_specific_red_flags": [
+      "Confusion or drowsiness",
+      "Vomiting blood",
+      "Swollen abdomen",
+      "Deep jaundice"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you have been exposed to HBV, if you develop symptoms of liver inflammation, or if you have a known chronic infection and have not been monitored regularly. Blood tests can assess liver function and viral activity, and early intervention can prevent or slow the progression of liver disease. Vaccination is recommended for all infants and individuals at risk.",
+    "questions_to_ask_doctor": [
+      "Is my infection recent or long-standing?",
+      "Should my family be tested and vaccinated?",
+      "How often should my liver be monitored?",
+      "What precautions protect others?"
+    ],
+    "common_tests": [
+      "HBsAg",
+      "Hepatitis B viral load",
+      "Liver function tests"
+    ],
+    "sources": [
+      "WHO",
+      "CDC"
+    ]
+  },
+  {
+    "id": "hepatitis_c",
+    "name": "Hepatitis C",
+    "aliases": [
+      "hepatitis c",
+      "hep c",
+      "hcv"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Hepatitis C is a liver infection caused by the hepatitis C virus (HCV), which can become chronic and lead to serious liver damage. The virus is primarily transmitted through contact with infected blood, most commonly through sharing needles or other equipment for drug use, unsafe medical practices, or, less frequently, through sexual contact or from mother to child during birth. Many people with hepatitis C are unaware they are infected, as the acute phase often produces mild or no symptoms. Over time, chronic hepatitis C can cause liver inflammation, fibrosis, cirrhosis, and liver cancer.",
+    "common_symptoms": [
+      "blood transfusion history",
+      "fatigue",
+      "dark urine",
+      "loss of appetite",
+      "joint pain",
+      "abdominal pain",
+      "nausea"
+    ],
+    "causes": "Infection of the liver with hepatitis C virus, spread mainly through blood-to-blood contact.",
+    "risk_factors": [
+      "Unscreened blood transfusion",
+      "Unsterile injections",
+      "Sharing needles",
+      "Unsterile tattooing"
+    ],
+    "is_contagious": true,
+    "typical_course": "When symptoms do occur, they may include fatigue, loss of appetite, nausea, abdominal pain, dark urine, and jaundice. However, many individuals remain asymptomatic for years or decades, during which time liver damage can progress silently. The lack of prominent early symptoms makes screening particularly important for those at risk. Blood tests are necessary to diagnose hepatitis C, as symptoms alone are not reliable for detection.",
+    "self_care": "General self-care guidance focuses on preventing transmission and supporting liver health. Avoiding sharing needles, using sterile equipment for body piercings and tattoos, and practicing safe sex can reduce the risk of infection. For those diagnosed with hepatitis C, avoiding alcohol, maintaining a healthy diet, and staying up to date with vaccinations for hepatitis A and B are important measures. Regular medical monitoring helps assess liver health and determine the appropriate time for treatment.",
+    "diet": {
+      "eat": "Eat a balanced, liver-friendly diet. Avoid alcohol completely. Include fresh fruits, vegetables, whole grains, and lean protein. Limit processed foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest as needed. Avoid alcohol completely. Follow prescribed antiviral treatment. Get regular liver function tests. Avoid sharing personal items.",
+    "ayurvedic_caution": "Hepatitis C is now curable with modern antivirals. Always follow prescribed treatment. This is general wellness information only.",
+    "complications": [
+      "Chronic infection",
+      "Liver scarring",
+      "Liver cancer"
+    ],
+    "condition_specific_red_flags": [
+      "Confusion",
+      "Vomiting blood",
+      "Swollen abdomen",
+      "Deep jaundice"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you have risk factors for hepatitis C, if you develop symptoms suggestive of liver disease, or if screening tests are positive. Modern antiviral treatments are highly effective and can cure hepatitis C in the majority of cases, making early diagnosis and treatment crucial for preventing long-term complications.",
+    "questions_to_ask_doctor": [
+      "Do I have ongoing infection?",
+      "How much liver damage is there?",
+      "What treatment is available to me?",
+      "How do I protect others?"
+    ],
+    "common_tests": [
+      "Hepatitis C antibody test",
+      "HCV RNA",
+      "Liver function tests"
+    ],
+    "sources": [
+      "WHO",
+      "CDC"
+    ]
+  },
+  {
+    "id": "hepatitis_d",
+    "name": "Hepatitis D",
+    "aliases": [
+      "hepatitis d",
+      "hep d",
+      "delta hepatitis",
+      "hdv"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Hepatitis D is a liver infection caused by the hepatitis D virus (HDV), which requires the presence of hepatitis B virus (HBV) to replicate and cause infection. Therefore, hepatitis D only occurs in individuals who are already infected with hepatitis B. The combination of HBV and HDV can lead to more severe liver disease than either virus alone, with a higher risk of rapid progression to cirrhosis and liver failure. HDV is transmitted through contact with infected blood or bodily fluids, similar to hepatitis B.",
+    "common_symptoms": [
+      "known hepatitis b",
+      "yellowing of eyes",
+      "fatigue",
+      "joint pain",
+      "vomiting",
+      "abdominal pain",
+      "nausea"
+    ],
+    "causes": "Infection with hepatitis D virus, which can only occur in someone who also has hepatitis B.",
+    "risk_factors": [
+      "Existing hepatitis B infection",
+      "Blood exposure",
+      "Unsterile injections"
+    ],
+    "is_contagious": true,
+    "typical_course": "Symptoms of hepatitis D overlap with those of hepatitis B and may include fatigue, jaundice, abdominal pain, dark urine, nausea, and loss of appetite. The co-infection or superinfection (infection with HDV in someone already living with chronic HBV) can lead to more severe and rapid liver damage. Chronic hepatitis D is associated with a higher likelihood of developing cirrhosis and liver complications compared to hepatitis B alone. Diagnosis requires specific blood tests to detect HDV in the presence of HBV.",
+    "self_care": "Hepatitis D is a liver infection caused by the hepatitis D virus (HDV), which requires the presence of hepatitis B virus (HBV) to replicate and cause infection. Therefore, hepatitis D only occurs in individuals who are already infected with hepatitis B. The combination of HBV and HDV can lead to more severe liver disease than either virus alone, with a higher risk of rapid progression to cirrhosis and liver failure. HDV is transmitted through contact with infected blood or bodily fluids, similar to hepatitis B.",
+    "diet": {
+      "eat": "Follow a strict liver-friendly diet. Avoid alcohol entirely. Eat light, warm, freshly cooked meals. Include green vegetables, dal, and rice.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Complete rest during active infection. Avoid alcohol completely. Follow prescribed treatment strictly. Get regular medical monitoring.",
+    "ayurvedic_caution": "Hepatitis D is a serious co-infection requiring specialist care. This is general wellness information only.",
+    "complications": [
+      "More rapid liver damage than hepatitis B alone",
+      "Liver failure",
+      "Cirrhosis"
+    ],
+    "condition_specific_red_flags": [
+      "Confusion or drowsiness",
+      "Vomiting blood",
+      "Rapidly deepening jaundice",
+      "Swollen abdomen"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you have hepatitis B and develop worsening symptoms, or if you have risk factors for hepatitis D exposure. Blood tests can confirm the diagnosis and help determine the extent of liver involvement. Early medical evaluation and appropriate treatment can help manage the infection and reduce the risk of severe liver complications.",
+    "questions_to_ask_doctor": [
+      "Has my hepatitis B status been confirmed?",
+      "How is this monitored?",
+      "What does this mean for my liver long term?",
+      "How do I prevent transmission?"
+    ],
+    "common_tests": [
+      "Hepatitis D antibody test",
+      "Hepatitis B tests",
+      "Liver function tests"
+    ],
+    "sources": [
+      "WHO"
+    ]
+  },
+  {
+    "id": "hepatitis_e",
+    "name": "Hepatitis E",
+    "aliases": [
+      "hepatitis e",
+      "hep e",
+      "hev"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Hepatitis E is a liver infection caused by the hepatitis E virus (HEV), primarily transmitted through the fecal-oral route, typically via contaminated drinking water. It is most common in areas with poor sanitation and is a leading cause of acute viral hepatitis worldwide. Outbreaks often occur after heavy rainfall or flooding, which can contaminate water supplies. Unlike hepatitis B and C, hepatitis E usually does not become chronic in healthy individuals, though chronic infection can develop in immunocompromised people. Pregnant women are at particular risk for severe disease from hepatitis E.",
+    "common_symptoms": [
+      "recent contaminated water",
+      "yellowing of eyes",
+      "joint pain",
+      "vomiting",
+      "high fever",
+      "fatigue",
+      "nausea"
+    ],
+    "causes": "Infection of the liver with hepatitis E virus, spread mainly through contaminated drinking water.",
+    "risk_factors": [
+      "Unsafe drinking water",
+      "Poor sanitation",
+      "Flooding",
+      "Pregnancy carries higher risk of severe illness"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms include fever, fatigue, loss of appetite, nausea, abdominal pain, dark urine, and jaundice. The illness usually resolves on its own within several weeks to months, with most people making a full recovery. However, in pregnant women, particularly in the third trimester, hepatitis E can lead to severe complications, including liver failure and a higher risk of maternal and fetal mortality. The infection can also be more severe in individuals with pre-existing liver disease or weakened immune systems.",
+    "self_care": "General self-care guidance focuses on prevention through access to safe drinking water, proper sanitation, and good hygiene practices such as regular handwashing. There is currently no widely available vaccine for hepatitis E in all regions, though one exists in some countries. If infected, rest, adequate hydration, and nutritional support are important for recovery. Avoiding alcohol and unnecessary medications that may stress the liver is recommended during the illness.",
+    "diet": {
+      "eat": "Eat light, warm, easily digestible food. Drink plenty of fluids. Include boiled vegetables and dal. Avoid fried and spicy foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest adequately during recovery. Stay hydrated. Avoid alcohol completely. Do not overexert. Follow up with liver function tests.",
+    "ayurvedic_caution": "Hepatitis E can be severe in pregnant women. Seek immediate medical attention. This is general wellness information only.",
+    "complications": [
+      "Usually self-limiting",
+      "Severe illness particularly in pregnancy",
+      "Rarely liver failure"
+    ],
+    "condition_specific_red_flags": [
+      "Pregnancy with jaundice",
+      "Confusion or drowsiness",
+      "Vomiting blood",
+      "Unable to keep fluids down"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you develop symptoms of liver inflammation, especially if you are pregnant, have a pre-existing liver condition, or have a weakened immune system. Blood tests can confirm the diagnosis, and medical monitoring is important to watch for complications. In severe cases, hospitalization may be necessary for supportive care.",
+    "questions_to_ask_doctor": [
+      "How long will this last?",
+      "Is my drinking water safe?",
+      "What extra care is needed if pregnant?",
+      "Which medicines should I avoid?"
+    ],
+    "common_tests": [
+      "Hepatitis E antibody test",
+      "Liver function tests"
+    ],
+    "sources": [
+      "WHO"
+    ]
+  },
+  {
+    "id": "hypertension",
+    "name": "Hypertension",
+    "aliases": [
+      "hypertension",
+      "high bp",
+      "bp",
+      "high blood pressure",
+      "blood pressure",
+      "उच्च रक्तचाप",
+      "bp high"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Hypertension, or high blood pressure, is a common chronic condition in which the force of blood against the artery walls remains consistently elevated. It is often referred to as a \"silent killer\" because it typically does not cause noticeable symptoms, yet significantly increases the risk of serious health problems such as heart disease, stroke, kidney damage, and vision loss. Risk factors include a family history of hypertension, obesity, high sodium intake, physical inactivity, chronic stress, smoking, and excessive alcohol consumption. Primary (essential) hypertension has no identifiable cause, while secondary hypertension may be linked to underlying conditions such as kidney disease or hormonal disorders.",
+    "common_symptoms": [
+      "headache",
+      "chest pain",
+      "dizziness",
+      "nausea",
+      "fatigue"
+    ],
+    "causes": "Persistently raised pressure in the arteries; usually no single cause is found, though kidney and hormonal causes exist.",
+    "risk_factors": [
+      "Family history",
+      "High salt intake",
+      "Excess weight",
+      "Inactivity",
+      "Alcohol",
+      "Stress",
+      "Older age"
+    ],
+    "is_contagious": false,
+    "typical_course": "Because hypertension is usually asymptomatic, many individuals are unaware they have it until a routine check-up reveals elevated readings. In some cases, very high blood pressure may cause headaches, shortness of breath, or nosebleeds, but these are not reliable indicators. Regular blood pressure monitoring is essential for early detection, as untreated hypertension can silently damage blood vessels and organs over years.",
+    "self_care": "General self-care guidance includes adopting a heart-healthy diet rich in fruits, vegetables, whole grains, and lean proteins while reducing sodium, saturated fat, and processed food intake. Regular aerobic exercise, maintaining a healthy weight, managing stress, limiting alcohol consumption, and quitting smoking are important lifestyle modifications. Monitoring blood pressure at home with a reliable device can help track trends and support discussions with your healthcare provider.",
+    "diet": {
+      "eat": "Reduce salt intake significantly. Eat potassium-rich foods like bananas and leafy greens. Follow a DASH-style diet rich in fruits, vegetables, and whole grains. Avoid processed and packaged foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Exercise regularly (30 minutes daily). Practice meditation and deep breathing. Maintain healthy weight. Limit alcohol. Avoid tobacco. Manage stress effectively.",
+    "ayurvedic_caution": "Regular blood pressure monitoring is essential. Never stop prescribed medications without medical advice. This is general wellness information only.",
+    "complications": [
+      "Stroke",
+      "Heart attack and heart failure",
+      "Kidney damage",
+      "Eye damage"
+    ],
+    "condition_specific_red_flags": [
+      "Severe headache with blurred vision",
+      "Chest pain",
+      "Breathlessness at rest",
+      "Weakness on one side or slurred speech",
+      "Very high readings with symptoms"
+    ],
+    "when_to_see_doctor": "You should see a doctor if your blood pressure readings are consistently above the recommended range, if you experience symptoms such as severe headaches, chest pain, vision changes, or difficulty breathing, or if you have risk factors for cardiovascular disease. Regular medical check-ups are important for assessing overall cardiovascular health and adjusting your management plan as needed.",
+    "questions_to_ask_doctor": [
+      "What is my target blood pressure?",
+      "How often should I measure it at home?",
+      "Which lifestyle change will help me most?",
+      "What should I do if a reading is very high?"
+    ],
+    "common_tests": [
+      "Repeated blood pressure measurement",
+      "Kidney function tests",
+      "ECG",
+      "Cholesterol and glucose"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "impetigo",
+    "name": "Impetigo",
+    "aliases": [
+      "impetigo",
+      "skin infection with crust",
+      "school sores"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Impetigo is a common and highly contagious skin infection that primarily affects infants and young children, though it can occur at any age. It is caused by bacteria, most commonly Staphylococcus aureus or Streptococcus pyogenes, which enter the skin through cuts, scrapes, or areas of irritation. Impetigo spreads easily through direct contact with an infected person or contaminated items such as towels, clothing, or bedding. The condition is most prevalent in warm, humid environments and in settings where children are in close contact, such as schools and daycare centers.",
+    "common_symptoms": [
+      "skin rash",
+      "blister",
+      "red sore around nose",
+      "yellow crust sortation",
+      "itching"
+    ],
+    "causes": "A contagious bacterial infection of the surface of the skin.",
+    "risk_factors": [
+      "Breaks in the skin such as scratches or insect bites",
+      "Close contact and crowding",
+      "Warm humid weather",
+      "Existing eczema"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms include red sores or blisters that quickly rupture, ooze, and form a honey-colored crust. The sores are most commonly found around the nose and mouth but can appear anywhere on the body. Non-bullous impetigo, the most common form, presents as small red spots that develop into blisters and then crust over. Bullous impetigo causes larger, fluid-filled blisters that may be less itchy. The sores are usually not painful but can be itchy, and scratching can spread the infection to other areas of the body or to other people.",
+    "self_care": "General self-care guidance includes gently washing the affected area with soap and water, keeping the sores clean, and covering them with clean bandages to reduce the risk of spreading. Frequent handwashing is essential, and personal items should not be shared with others. Keeping the child's nails short and discouraging scratching can help prevent the infection from spreading. The condition typically responds well to appropriate treatment and heals without scarring when managed properly.",
+    "diet": {
+      "eat": "Eat light, easily digestible food. Include fresh fruits and vegetables. Avoid oily, spicy, and fermented foods. Stay well hydrated.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Keep the affected area clean and covered. Do not touch or scratch sores. Wash hands frequently. Wash towels and clothing in hot water. Isolate until no longer contagious.",
+    "ayurvedic_caution": "Impetigo requires antibiotic treatment. See a doctor for proper care. This is general wellness information only.",
+    "complications": [
+      "Spread to other sites or people",
+      "Deeper skin infection",
+      "Rarely kidney inflammation"
+    ],
+    "condition_specific_red_flags": [
+      "Fever with spreading redness",
+      "Large painful blisters",
+      "Rapid spread over hours",
+      "Impetigo in a newborn"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you suspect impetigo, especially if the sores are widespread, not improving, or accompanied by fever. A healthcare provider can confirm the diagnosis and may prescribe topical or oral antibiotics to treat the bacterial infection and prevent complications. Early treatment helps speed recovery and reduces the risk of spreading the infection to others.",
+    "questions_to_ask_doctor": [
+      "How long am I infectious?",
+      "How do I prevent it spreading at home?",
+      "When can my child return to school?",
+      "What hygiene measures help?"
+    ],
+    "common_tests": [
+      "Usually diagnosed by appearance",
+      "Skin swab if not settling"
+    ],
+    "sources": [
+      "NHS",
+      "CDC"
+    ]
+  },
+  {
+    "id": "jaundice",
+    "name": "Jaundice",
+    "aliases": [
+      "jaundice",
+      "peelia",
+      "पीलिया"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Jaundice is a condition characterized by a yellowing of the skin and the whites of the eyes, caused by an accumulation of bilirubin in the blood. Bilirubin is a yellow pigment produced during the normal breakdown of red blood cells, which is processed by the liver and excreted in bile. When the liver is unable to adequately process bilirubin, or when bile ducts are blocked, bilirubin levels rise and cause the characteristic yellow discoloration. Jaundice can result from various underlying conditions, including liver disease, bile duct obstruction, hemolytic disorders, and certain infections.",
+    "common_symptoms": [
+      "itching",
+      "fatigue",
+      "weight loss",
+      "high fever",
+      "vomiting",
+      "yellowing of eyes"
+    ],
+    "causes": "A build-up of bilirubin, which is a sign of an underlying problem in the liver, bile ducts or blood rather than a disease in itself.",
+    "risk_factors": [
+      "Liver infection or inflammation",
+      "Bile duct obstruction",
+      "Certain medicines",
+      "Conditions that break down red blood cells"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include yellowing of the skin and eyes, dark urine, pale or clay-colored stools, fatigue, abdominal pain or discomfort, and in some cases, itching. The intensity of yellowing may vary depending on the severity of the underlying cause. Some individuals may also experience nausea, loss of appetite, or weight loss. Jaundice in newborns (neonatal jaundice) is common and typically resolves on its own, but jaundice in adults usually indicates an underlying medical condition that requires evaluation.",
+    "self_care": "General self-care guidance includes staying well-hydrated, eating a balanced diet that is easy on the liver, avoiding alcohol, and getting adequate rest. If jaundice is caused by a treatable condition, addressing the underlying cause is essential for resolution. Keeping a record of symptoms, including their onset and any associated changes in urine or stool color, can provide helpful information for healthcare providers.",
+    "diet": {
+      "eat": "Eat light, warm, easily digestible food. Include boiled vegetables, dal khichdi, and coconut water. Avoid oily, fried, spicy foods and alcohol completely. Drink plenty of warm water.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest adequately. Avoid physical overexertion. Do not skip meals. Maintain hydration. Avoid alcohol completely. Keep the living space clean and ventilated.",
+    "ayurvedic_caution": "Jaundice requires medical evaluation to determine the underlying cause. Seek immediate medical care. This is general wellness information only.",
+    "complications": [
+      "Depends entirely on the underlying cause",
+      "Itching",
+      "Poor absorption of nutrients"
+    ],
+    "condition_specific_red_flags": [
+      "Confusion or drowsiness",
+      "Fever with jaundice",
+      "Severe abdominal pain",
+      "Vomiting blood or black stools",
+      "Jaundice in a newborn"
+    ],
+    "when_to_see_doctor": "You should see a doctor promptly if you notice yellowing of the skin or eyes, dark urine, pale stools, or persistent abdominal pain. Jaundice is not a disease itself but a sign of an underlying condition, and timely medical evaluation is important to identify the cause and begin appropriate treatment. In some cases, jaundice may indicate a serious condition that requires urgent care.",
+    "questions_to_ask_doctor": [
+      "What is causing the jaundice?",
+      "Which tests will identify the cause?",
+      "Which medicines should I stop or avoid?",
+      "What should I watch for at home?"
+    ],
+    "common_tests": [
+      "Liver function tests including bilirubin",
+      "Abdominal ultrasound",
+      "Hepatitis screening",
+      "Full blood count"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "malaria",
+    "name": "Malaria",
+    "aliases": [
+      "malaria",
+      "मलेरिया",
+      "mosquito fever",
+      "plasmodium"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Malaria is a potentially life-threatening infectious disease caused by parasites that are transmitted to humans through the bites of infected female Anopheles mosquitoes. The parasites, primarily of the Plasmodium species, enter the bloodstream and travel to the liver, where they multiply and eventually infect red blood cells. Malaria is most common in tropical and subtropical regions, particularly in sub-Saharan Africa, South Asia, and parts of Central and South America. Travelers to endemic areas are at significant risk if preventive measures are not taken.",
+    "common_symptoms": [
+      "chills",
+      "vomiting",
+      "high fever",
+      "sweating",
+      "headache",
+      "nausea",
+      "diarrhea"
+    ],
+    "causes": "Infection with Plasmodium parasites transmitted by the bite of infected female Anopheles mosquitoes.",
+    "risk_factors": [
+      "Living in or travelling to a malaria area",
+      "No mosquito-net use",
+      "Standing water nearby",
+      "Monsoon season"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms follow a cyclical pattern and include high fever, chills, sweating, headache, muscle aches, fatigue, nausea, and vomiting. Symptoms often occur in episodes that last several hours and are typically preceded by a period of intense chills followed by high fever and profuse sweating. The cyclical nature of symptoms is characteristic of malaria and corresponds to the parasite's life cycle within red blood cells. In severe cases, complications such as severe anemia, organ failure, or cerebral malaria can develop, which are medical emergencies.",
+    "self_care": "General self-care guidance for prevention includes taking antimalarial prophylaxis as prescribed when traveling to endemic areas, using insect repellent, sleeping under insecticide-treated bed nets, and wearing long sleeves and pants during peak mosquito activity times. If symptoms develop during or after travel to a malaria-endemic region, seeking prompt medical attention is essential, as early treatment significantly improves outcomes.",
+    "diet": {
+      "eat": "During fever: sip warm water, consume light soups and dal. Avoid heavy and fried foods. After fever subsides, eat nutrient-rich warm meals to rebuild strength.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest completely during fever episodes. Stay under mosquito nets. Keep the environment clean. Rehydrate adequately. Avoid exertion for weeks after recovery.",
+    "ayurvedic_caution": "Malaria is a serious infection requiring prompt medical treatment. Always complete prescribed medication. This is general wellness information only.",
+    "complications": [
+      "Severe anaemia",
+      "Cerebral malaria",
+      "Organ failure",
+      "Death if untreated"
+    ],
+    "condition_specific_red_flags": [
+      "Confusion or fits",
+      "Very dark or minimal urine",
+      "Difficulty breathing",
+      "Repeated vomiting with inability to take fluids",
+      "Yellowing of the eyes"
+    ],
+    "when_to_see_doctor": "You should see a doctor immediately if you develop fever, chills, or flu-like symptoms during or after travel to a malaria-endemic area. Malaria is diagnosed through blood tests, and timely treatment is critical to prevent complications and save lives. Do not delay seeking care, as malaria can progress rapidly to a severe and life-threatening stage.",
+    "questions_to_ask_doctor": [
+      "Which blood test confirms malaria?",
+      "Which species is it?",
+      "How soon should I feel better?",
+      "How do I protect my household?"
+    ],
+    "common_tests": [
+      "Malaria rapid diagnostic test",
+      "Blood smear microscopy",
+      "Full blood count"
+    ],
+    "sources": [
+      "WHO",
+      "ICMR"
+    ]
+  },
+  {
+    "id": "migraine",
+    "name": "Migraine",
+    "aliases": [
+      "migraine",
+      "adha sir dard",
+      "आधा सिर दर्द"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Migraine is a neurological condition characterized by intense, debilitating headaches, often accompanied by other symptoms. It is more than just a bad headache; migraines involve complex changes in brain activity and blood flow. They can be triggered by a variety of factors, including stress, hormonal changes, certain foods, sleep disturbances, bright lights, strong smells, and weather changes. Migraines can run in families, suggesting a genetic component, and are more common in women than men. They can occur with or without an aura, which is a set of sensory disturbances that precede or accompany the headache phase.",
+    "common_symptoms": [
+      "acidity",
+      "neck pain",
+      "vomiting",
+      "headache",
+      "blurred vision",
+      "irritability"
+    ],
+    "causes": "A neurological condition producing recurrent headache attacks, often with sensitivity to light and sound.",
+    "risk_factors": [
+      "Family history",
+      "Stress and poor sleep",
+      "Skipped meals",
+      "Certain foods",
+      "Hormonal changes"
+    ],
+    "is_contagious": false,
+    "typical_course": "A typical migraine follows a pattern that may include four phases: prodrome (early warning signs like mood changes or food cravings), aura (visual disturbances, tingling, or speech difficulties), headache (throbbing pain usually on one side of the head, often with nausea, vomiting, and sensitivity to light and sound), and postdrome (fatigue and mood changes after the headache subsides). Migraine attacks can last from a few hours to several days, and their frequency varies from occasional to multiple times per week.",
+    "self_care": "General self-care guidance includes identifying and avoiding personal triggers through a headache diary, maintaining a regular sleep schedule, staying hydrated, managing stress, and eating balanced meals at regular intervals. Relaxation techniques, such as deep breathing and meditation, may help reduce the frequency and severity of attacks. Resting in a quiet, dark room during an attack can provide some relief.",
+    "diet": {
+      "eat": "Eat regular meals to avoid blood sugar drops. Avoid aged cheese, processed meats, alcohol, and artificial sweeteners. Stay well hydrated. Include cooling foods during attacks.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Maintain regular sleep schedule. Practice stress management. Avoid bright lights and loud noise during attacks. Identify and avoid personal triggers. Take regular breaks from screens.",
+    "ayurvedic_caution": "Consult a neurologist for frequent or severe migraines. This is general wellness information only.",
+    "complications": [
+      "Frequent attacks affecting work and study",
+      "Medication-overuse headache"
+    ],
+    "condition_specific_red_flags": [
+      "The worst headache of your life, coming on suddenly",
+      "Headache with fever and neck stiffness",
+      "Weakness, numbness or difficulty speaking",
+      "Headache after a head injury",
+      "New headache pattern over the age of 50"
+    ],
+    "when_to_see_doctor": "You should see a doctor if migraines are frequent, severe, or interfere with daily life, if over-the-counter treatments do not provide relief, or if you experience new or unusual symptoms such as a sudden, severe headache, fever, stiff neck, confusion, or weakness. These may indicate a more serious condition requiring immediate medical evaluation.",
+    "questions_to_ask_doctor": [
+      "What are my triggers?",
+      "Would a headache diary help?",
+      "When is preventive treatment considered?",
+      "How do I avoid overusing painkillers?"
+    ],
+    "common_tests": [
+      "Usually clinical",
+      "Brain imaging only if warning features are present"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "paralysis_brain_hemorrhage",
+    "name": "Paralysis (brain hemorrhage)",
+    "aliases": [
+      "stroke",
+      "brain hemorrhage",
+      "brain haemorrhage",
+      "paralysis",
+      "lakwa",
+      "लकवा",
+      "brain stroke"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Paralysis resulting from a brain hemorrhage is a serious medical emergency that occurs when a blood vessel in the brain ruptures, causing bleeding into or around the brain tissue. The hemorrhage creates pressure that damages brain cells and disrupts normal brain function, which can lead to partial or complete loss of muscle control in specific areas of the body. Risk factors for brain hemorrhage include uncontrolled high blood pressure, brain aneurysms, blood vessel malformations, head trauma, and certain bleeding disorders. The severity and location of the paralysis depend on the size and position of the hemorrhage.",
+    "common_symptoms": [
+      "vomiting",
+      "headache",
+      "neck pain",
+      "weakness of body",
+      "altered sensorium",
+      "dizziness"
+    ],
+    "causes": "Bleeding into or around the brain, which damages brain tissue and interrupts its blood supply.",
+    "risk_factors": [
+      "High blood pressure",
+      "Smoking",
+      "Blood-thinning medicines",
+      "Aneurysms",
+      "Heavy alcohol use"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include sudden, severe headache, often described as the \"worst headache of one's life,\" weakness or numbness on one side of the body, difficulty speaking or understanding speech, vision changes, confusion, loss of balance, and in severe cases, loss of consciousness. The onset is usually abrupt, and symptoms can rapidly worsen. The pattern of paralysis may be one-sided (hemiplegia) or affect specific limbs, depending on the affected brain region. Accompanying symptoms such as nausea, vomiting, and seizures may also occur.",
+    "self_care": "Immediate medical attention is critical in cases of suspected brain hemorrhage. Call emergency services without delay. Do not attempt self-care, as this is a life-threatening situation requiring urgent diagnostic imaging and specialized medical intervention. Time is a critical factor, and prompt treatment can significantly influence outcomes. After initial treatment and stabilization, rehabilitation services including physical therapy, occupational therapy, and speech therapy may be necessary to support recovery.",
+    "diet": {
+      "eat": "After recovery, eat easily chewable and swallowable foods. Include protein-rich foods for tissue repair. Avoid hard-to-chew foods. Stay well hydrated.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Follow prescribed rehabilitation program. Practice gentle range-of-motion exercises. Maintain regular sleep. Avoid falls. Use assistive devices as needed. Manage blood pressure.",
+    "ayurvedic_caution": "This is a medical emergency requiring immediate hospital care. Follow all medical advice strictly. This is general wellness information only.",
+    "complications": [
+      "Lasting weakness or speech difficulty",
+      "Swallowing problems",
+      "Seizures",
+      "Death without urgent treatment"
+    ],
+    "condition_specific_red_flags": [
+      "Sudden weakness of the face, arm or leg, usually one side",
+      "Sudden difficulty speaking or understanding",
+      "Sudden worst-ever headache",
+      "Sudden loss of vision or balance",
+      "Any of these - call emergency services immediately"
+    ],
+    "when_to_see_doctor": "Immediate medical attention is critical in cases of suspected brain hemorrhage. Call emergency services without delay. Do not attempt self-care, as this is a life-threatening situation requiring urgent diagnostic imaging and specialized medical intervention. Time is a critical factor, and prompt treatment can significantly influence outcomes. After initial treatment and stabilization, rehabilitation services including physical therapy, occupational therapy, and speech therapy may be necessary to support recovery.",
+    "questions_to_ask_doctor": [
+      "Call emergency services first - time is critical.",
+      "What caused the bleed?",
+      "What rehabilitation is available?",
+      "How is the risk of another event reduced?"
+    ],
+    "common_tests": [
+      "Urgent CT scan of the head",
+      "MRI",
+      "Blood pressure and clotting tests"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "peptic_ulcer_disease",
+    "name": "Peptic ulcer diseae",
+    "aliases": [
+      "peptic ulcer",
+      "stomach ulcer",
+      "duodenal ulcer",
+      "ulcer",
+      "pet ka alsar"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Peptic ulcer disease involves open sores or ulcers that develop on the inner lining of the stomach (gastric ulcers) or the upper portion of the small intestine (duodenal ulcers). The most common causes include infection with Helicobacter pylori bacteria and the long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). These factors can erode the protective mucous layer of the digestive tract, allowing acid to damage the underlying tissue. Stress and spicy foods may worsen symptoms but are not considered primary causes.",
+    "common_symptoms": [
+      "vomiting",
+      "indigestion",
+      "loss of appetite",
+      "abdominal pain",
+      "passage of gases"
+    ],
+    "causes": "A sore in the lining of the stomach or upper small intestine, commonly from H. pylori infection or prolonged use of anti-inflammatory painkillers.",
+    "risk_factors": [
+      "H. pylori infection",
+      "Regular anti-inflammatory painkillers",
+      "Smoking",
+      "Heavy alcohol use"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include a burning or gnawing stomach pain, often between the navel and the breastbone, which may occur at night or when the stomach is empty. The pain can last from minutes to hours and may temporarily improve after eating or taking antacids. Other symptoms include bloating, belching, nausea, vomiting, and in some cases, dark or bloody stools, which may indicate bleeding. Symptoms can come and go, with periods of remission and flare-ups.",
+    "self_care": "General self-care guidance includes eating regular, balanced meals and avoiding foods that seem to aggravate symptoms. Limiting caffeine, alcohol, and NSAID use can help protect the stomach lining. Managing stress through relaxation techniques may reduce symptom flare-ups. If a bacterial infection is identified as the cause, a healthcare provider will typically prescribe a treatment regimen to eradicate the infection and promote healing.",
+    "diet": {
+      "eat": "Eat small, frequent meals. Avoid spicy, acidic, and fried foods. Include cooling foods like cucumber, yogurt (if tolerated), and coconut water. Avoid alcohol and caffeine.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Manage stress through yoga and meditation. Avoid smoking. Eat slowly and chew thoroughly. Maintain regular sleep schedule.",
+    "ayurvedic_caution": "See a gastroenterologist for persistent stomach pain. This is general wellness information only.",
+    "complications": [
+      "Bleeding",
+      "Perforation",
+      "Obstruction of the stomach outlet"
+    ],
+    "condition_specific_red_flags": [
+      "Vomiting blood or material like coffee grounds",
+      "Black tarry stools",
+      "Sudden severe abdominal pain with a rigid abdomen",
+      "Fainting",
+      "Unintended weight loss"
+    ],
+    "when_to_see_doctor": "You should see a doctor if stomach pain persists or worsens, if you notice blood in your stool or vomit, if you experience unexplained weight loss, or if symptoms do not improve with over-the-counter remedies. Untreated ulcers can lead to complications such as bleeding, perforation, or obstruction, making timely medical evaluation important.",
+    "questions_to_ask_doctor": [
+      "Should I be tested for H. pylori?",
+      "Which painkillers are safe for me?",
+      "Do I need an endoscopy?",
+      "What dietary changes help?"
+    ],
+    "common_tests": [
+      "H. pylori breath, stool or blood test",
+      "Endoscopy"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "pneumonia",
+    "name": "Pneumonia",
+    "aliases": [
+      "pneumonia",
+      "chest infection",
+      "lung infection",
+      "निमोनिया",
+      "phephde ka infection"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Pneumonia is an infection that inflames the air sacs (alveoli) in one or both lungs, which may fill with fluid or pus. It can be caused by bacteria, viruses, fungi, or other organisms, and can range from mild to life-threatening. Certain populations, including young children, older adults, smokers, and individuals with weakened immune systems or chronic illnesses, are at greater risk for developing pneumonia. The infection can occur on its own (community-acquired) or as a complication of other illnesses or hospital stays.",
+    "common_symptoms": [
+      "productive sputum",
+      "high fever",
+      "chills",
+      "cough",
+      "breathlessness",
+      "chest pain",
+      "fatigue",
+      "loss of appetite"
+    ],
+    "causes": "Infection of the lung tissue, most often bacterial or viral, causing the air sacs to fill with fluid.",
+    "risk_factors": [
+      "Age under 5 or over 65",
+      "Smoking",
+      "Chronic lung or heart disease",
+      "Weakened immunity",
+      "Recent viral illness"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms include cough with phlegm, fever, chills, difficulty breathing, chest pain that worsens with deep breaths or coughing, fatigue, and loss of appetite. The onset of symptoms can be sudden or gradual, depending on the type of causative organism. In severe cases, symptoms may include high fever, rapid breathing, confusion, bluish discoloration of the lips or fingertips, and a general state of illness. The pattern and severity of symptoms can vary widely based on the individual's overall health and the specific type of pneumonia.",
+    "self_care": "General self-care guidance includes getting plenty of rest, staying well-hydrated, and using fever-reducing measures as appropriate. Avoiding smoking and exposure to secondhand smoke supports lung health. Pneumococcal vaccines and annual influenza vaccines can help prevent certain types of pneumonia. Good hygiene practices, such as regular handwashing, reduce the risk of respiratory infections.",
+    "diet": {
+      "eat": "Eat warm, nutritious, easily digestible food. Include soups, dal, and steamed vegetables. Stay well hydrated with warm fluids. Avoid cold and raw foods.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Rest completely. Keep the chest warm. Practice deep breathing exercises. Avoid dust and smoke. Ensure good ventilation. Complete prescribed antibiotics.",
+    "ayurvedic_caution": "Pneumonia can be serious. Always follow prescribed antibiotic treatment. This is general wellness information only.",
+    "complications": [
+      "Low blood oxygen",
+      "Fluid around the lung",
+      "Spread of infection to the blood",
+      "Respiratory failure"
+    ],
+    "condition_specific_red_flags": [
+      "Rapid or laboured breathing",
+      "Blue lips or face",
+      "Confusion, especially in older people",
+      "Chest pain on breathing",
+      "Unable to complete a sentence"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience difficulty breathing, chest pain, high fever, confusion, or if symptoms do not improve or worsen despite home care. Pneumonia can be serious, especially in vulnerable populations, and may require medical treatment including antibiotics for bacterial pneumonia or antiviral medications for certain viral causes. Prompt medical evaluation ensures accurate diagnosis and appropriate treatment.",
+    "questions_to_ask_doctor": [
+      "Do I need a chest X-ray?",
+      "Should my oxygen level be checked?",
+      "How long before I improve?",
+      "Which vaccinations would help prevent this?"
+    ],
+    "common_tests": [
+      "Chest X-ray",
+      "Oxygen saturation",
+      "Full blood count",
+      "Sputum test in some cases"
+    ],
+    "sources": [
+      "WHO",
+      "NHS"
+    ]
+  },
+  {
+    "id": "psoriasis",
+    "name": "Psoriasis",
+    "aliases": [
+      "psoriasis",
+      "scaly skin disease",
+      "sorasis"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Psoriasis is a chronic autoimmune skin condition in which the life cycle of skin cells is dramatically accelerated, causing cells to build up rapidly on the skin's surface. This results in thick, silvery scales and itchy, dry, red patches that can be painful and embarrassing. The condition is driven by an overactive immune system and has a strong genetic component, though environmental factors such as stress, skin injuries, infections, and certain medications can trigger or worsen flare-ups. Psoriasis can affect any area of the body and ranges from mild to severe, with some forms presenting as small patches and others covering large areas of skin.",
+    "common_symptoms": [
+      "skin rash",
+      "joint pain",
+      "skin peeling",
+      "silver like dusting",
+      "small dents in nails",
+      "inflammatory nails"
+    ],
+    "causes": "A long-term immune-mediated condition in which skin cells are produced far faster than normal.",
+    "risk_factors": [
+      "Family history",
+      "Stress",
+      "Skin injury",
+      "Infections",
+      "Smoking",
+      "Some medicines"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include well-defined patches of red skin covered with thick, silvery scales, itching or burning sensations, dry and cracked skin that may bleed, stiff and swollen joints (in cases of psoriatic arthritis), and thickened or ridged nails. The most common pattern involves symmetrical patches on the elbows, knees, scalp, and lower back, though any body area may be affected. Symptoms often cycle, with periods of flare-ups followed by remission, and the severity can vary widely from person to person.",
+    "self_care": "General self-care guidance includes keeping the skin moisturized, avoiding known triggers such as stress, skin injury, and certain medications, and using gentle, fragrance-free skincare products. Regular, short exposure to sunlight may help some individuals, but excessive sun exposure can worsen symptoms. Maintaining a healthy weight, eating a balanced diet, and managing stress through relaxation techniques can also support overall well-being.",
+    "diet": {
+      "eat": "Eat anti-inflammatory foods: omega-3 rich fish, leafy greens, berries. Avoid alcohol, processed foods, and nightshades (tomatoes, potatoes) if they trigger flares.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Moisturize skin regularly. Avoid cold",
+    "ayurvedic_caution": " fragrance-free skin products. Get moderate sunlight exposure.",
+    "complications": [
+      "Joint involvement (psoriatic arthritis)",
+      "Skin infection",
+      "Significant effect on mood and confidence"
+    ],
+    "condition_specific_red_flags": [
+      "Widespread redness covering most of the body",
+      "Pustules with fever",
+      "Rapidly worsening joint pain and swelling"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you notice persistent skin changes, if over-the-counter treatments do not provide relief, if psoriasis is widespread or significantly affects your quality of life, or if you develop joint pain or swelling. A dermatologist can confirm the diagnosis and recommend treatments tailored to the severity and type of psoriasis, including topical therapies, phototherapy, or systemic treatments for more severe cases.",
+    "questions_to_ask_doctor": [
+      "Which type of psoriasis is this?",
+      "What triggers my flares?",
+      "How do I care for my skin day to day?",
+      "Should my joints be assessed?"
+    ],
+    "common_tests": [
+      "Usually diagnosed by appearance",
+      "Skin biopsy in unclear cases"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "tuberculosis",
+    "name": "Tuberculosis",
+    "aliases": [
+      "tb",
+      "tuberculosis",
+      "टीबी",
+      "kshay rog",
+      "lung tb"
+    ],
+    "urgency": "needs prompt medical attention",
+    "severity_tier": "high",
+    "overview": "Tuberculosis (TB) is a bacterial infection caused by Mycobacterium tuberculosis that primarily affects the lungs but can also involve other parts of the body, known as extrapulmonary TB. The bacteria spread through the air when an infected person coughs, sneezes, or speaks, making close and prolonged contact a significant risk factor. TB is a major global health concern, particularly in regions with high prevalence and limited access to healthcare. The infection can be latent, where the bacteria remain inactive and cause no symptoms, or active, where the bacteria multiply and cause disease.",
+    "common_symptoms": [
+      "cough over two weeks",
+      "night sweats",
+      "weight loss",
+      "cough",
+      "loss of appetite",
+      "high fever",
+      "fatigue",
+      "chest pain"
+    ],
+    "causes": "Infection with Mycobacterium tuberculosis, usually affecting the lungs and spread through the air when an infected person coughs.",
+    "risk_factors": [
+      "Close contact with an active case",
+      "Crowded or poorly ventilated living conditions",
+      "HIV or weakened immunity",
+      "Diabetes",
+      "Malnutrition",
+      "Smoking"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms of active pulmonary TB include a persistent cough lasting more than two weeks, coughing up blood or sputum, chest pain, fatigue, weight loss, night sweats, and fever. The onset of symptoms is usually gradual, and without treatment, the disease can progress and spread to other organs. Latent TB does not cause symptoms and is not contagious, but it can progress to active disease, especially in individuals with weakened immune systems.",
+    "self_care": "General self-care guidance includes maintaining good respiratory hygiene by covering the mouth and nose when coughing or sneezing, ensuring adequate ventilation in living spaces, and avoiding close contact with individuals who have active TB. If diagnosed with latent TB, preventive treatment can reduce the risk of progression to active disease. A balanced diet, adequate rest, and avoiding smoking support overall health and recovery during treatment.",
+    "diet": {
+      "eat": "Eat a high-protein, nutrient-dense diet. Include eggs, milk, dal, nuts, and fresh fruits. Avoid refined foods and excess sugar. Stay well hydrated.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Complete the full course of prescribed antibiotics (6-9 months). Rest adequately. Cover mouth when coughing. Ensure good ventilation. Avoid close contact with others during infectious phase.",
+    "ayurvedic_caution": "TB requires complete antibiotic treatment. Never stop medication early. This is general wellness information only.",
+    "complications": [
+      "Lung damage",
+      "Spread to other organs",
+      "Drug-resistant TB if treatment is interrupted"
+    ],
+    "condition_specific_red_flags": [
+      "Coughing up blood",
+      "Severe breathlessness",
+      "Chest pain with high fever",
+      "Rapid unintended weight loss",
+      "Confusion or neck stiffness"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you have a persistent cough, especially if accompanied by fever, night sweats, weight loss, or coughing up blood. TB is diagnosed through sputum tests, chest imaging, and other diagnostic tools, and requires a full course of antibiotic treatment prescribed and monitored by a healthcare provider. Early diagnosis and treatment are crucial to prevent the spread of infection and ensure recovery.",
+    "questions_to_ask_doctor": [
+      "Which tests confirm TB?",
+      "How long is the treatment and why must it be completed?",
+      "When do I stop being infectious?",
+      "Should my household be screened?"
+    ],
+    "common_tests": [
+      "Sputum test for TB",
+      "Chest X-ray",
+      "Molecular test such as NAAT",
+      "Tuberculin skin test"
+    ],
+    "sources": [
+      "WHO",
+      "ICMR"
+    ]
+  },
+  {
+    "id": "typhoid",
+    "name": "Typhoid",
+    "aliases": [
+      "typhoid",
+      "typhoid fever",
+      "enteric fever",
+      "टाइफाइड",
+      "motijhara"
+    ],
+    "urgency": "see a doctor soon",
+    "severity_tier": "medium",
+    "overview": "Typhoid fever is a bacterial infection caused by Salmonella typhi, typically spread through contaminated food or water. It is most common in areas with poor sanitation and limited access to clean water, particularly in parts of South Asia, Southeast Asia, Africa, and Central and South America. The bacteria enter the body through the digestive tract and can spread to the bloodstream, affecting multiple organs. Without treatment, typhoid fever can lead to serious complications such as intestinal perforation, sepsis, and organ failure.",
+    "common_symptoms": [
+      "high fever",
+      "headache",
+      "malaise",
+      "loss of appetite",
+      "abdominal pain",
+      "constipation",
+      "diarrhea"
+    ],
+    "causes": "Infection with Salmonella Typhi, acquired from contaminated food or water.",
+    "risk_factors": [
+      "Unsafe food or water",
+      "Poor sanitation",
+      "Close contact with a case or carrier",
+      "Travel to areas where typhoid is common"
+    ],
+    "is_contagious": true,
+    "typical_course": "Typical symptoms develop gradually and include sustained high fever, headache, abdominal pain, constipation or diarrhea, loss of appetite, weakness, and a characteristic rash of flat, rose-colored spots. The fever often rises in a stepwise pattern over several days and can remain elevated for weeks. Other symptoms may include malaise, muscle aches, and a coated tongue. The gradual onset and prolonged course of symptoms are characteristic features that can help distinguish typhoid from other febrile illnesses.",
+    "self_care": "General self-care guidance emphasizes prevention through safe food and water practices, including drinking only boiled or bottled water, eating thoroughly cooked food, and practicing good hand hygiene. If infected, adequate rest, fluid intake, and nutrition are important for recovery. Monitor symptoms closely, as typhoid requires medical treatment to prevent complications.",
+    "diet": {
+      "eat": "Start with clear fluids and progress to soft, bland foods. Include bananas, rice, boiled potatoes, and well-cooked dal. Avoid raw vegetables, salads, and high-fiber foods during acute phase.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Complete bed rest during fever. Stay hydrated. Maintain personal hygiene. Wash hands frequently. Avoid spicy and heavy foods until fully recovered.",
+    "ayurvedic_caution": "Typhoid requires antibiotic treatment. Complete the full course of prescribed medication. This is general wellness information only.",
+    "complications": [
+      "Intestinal bleeding or perforation",
+      "Prolonged fever",
+      "Carrier state"
+    ],
+    "condition_specific_red_flags": [
+      "Severe abdominal pain with a rigid abdomen",
+      "Blood in stool or black stools",
+      "Confusion or extreme drowsiness",
+      "Persistent vomiting"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you develop a sustained fever, especially if you have recently traveled to an area where typhoid is common, or if symptoms include abdominal pain, weakness, or a rash. Typhoid is diagnosed through blood tests and requires antibiotic treatment prescribed by a healthcare provider. Delaying treatment increases the risk of complications and prolonged illness.",
+    "questions_to_ask_doctor": [
+      "Which test confirms typhoid?",
+      "How long is the full course of treatment?",
+      "When can I return to work, especially if I handle food?",
+      "Should my household be checked?"
+    ],
+    "common_tests": [
+      "Blood culture",
+      "Typhoid serology",
+      "Full blood count"
+    ],
+    "sources": [
+      "WHO",
+      "ICMR"
+    ]
+  },
+  {
+    "id": "urinary_tract_infection",
+    "name": "Urinary tract infection",
+    "aliases": [
+      "uti",
+      "urine infection",
+      "urinary infection",
+      "bladder infection",
+      "peshab me jalan",
+      "पेशाब में जलन"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "A urinary tract infection (UTI) is an infection in any part of the urinary system, which includes the kidneys, bladder, ureters, and urethra. UTIs are one of the most common infections worldwide and are more prevalent in women than men due to differences in anatomy. The most common cause is bacteria entering the urinary tract through the urethra and multiplying in the bladder. Risk factors include sexual activity, certain types of birth control, urinary retention, kidney stones, diabetes, and a weakened immune system. UTIs can range from mild bladder infections to more serious kidney infections.",
+    "common_symptoms": [
+      "burning micturition",
+      "foul smell of urine",
+      "continuous feel of urine",
+      "bladder discomfort",
+      "high fever"
+    ],
+    "causes": "Bacteria entering and multiplying in the urinary tract, most often the bladder.",
+    "risk_factors": [
+      "Female anatomy",
+      "Sexual activity",
+      "Not emptying the bladder fully",
+      "Low fluid intake",
+      "Diabetes",
+      "Catheter use"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms of a lower UTI (bladder infection) include a strong, persistent urge to urinate, a burning sensation during urination, frequent urination of small amounts, cloudy or strong-smelling urine, and pelvic discomfort. If the infection spreads to the kidneys (upper UTI), symptoms may include fever, chills, back or side pain, nausea, and vomiting. The pattern of symptoms can help distinguish between lower and upper tract infections, with upper UTIs requiring more urgent medical attention.",
+    "self_care": "General self-care guidance includes drinking plenty of water to help flush bacteria from the urinary system, urinating frequently and completely, wiping from front to back after using the toilet, and urinating after sexual activity. Avoiding irritants such as caffeine, alcohol, and spicy foods may help reduce bladder irritation. Cranberry products have been studied for their potential to reduce the risk of recurrent UTIs, though evidence is mixed.",
+    "diet": {
+      "eat": "Drink plenty of water (8-10 glasses daily). Include cranberry juice if tolerated. Avoid caffeine, alcohol, and spicy foods. Eat light, warm meals.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Wipe front to back. Urinate after intercourse. Avoid holding urine for long periods. Wear breathable cotton underwear. Maintain good personal hygiene.",
+    "ayurvedic_caution": "UTIs usually require antibiotic treatment. See a doctor for proper diagnosis and treatment. This is general wellness information only.",
+    "complications": [
+      "Kidney infection",
+      "Recurrent infections",
+      "Infection spreading to the blood"
+    ],
+    "condition_specific_red_flags": [
+      "Fever with flank or back pain",
+      "Shaking chills",
+      "Vomiting and unable to keep fluids down",
+      "Blood in the urine",
+      "Confusion in an older person",
+      "UTI in pregnancy"
+    ],
+    "when_to_see_doctor": "You should see a doctor if you experience symptoms of a UTI, especially if you have fever, back pain, or nausea, which may indicate a kidney infection. UTIs are diagnosed through urine tests and are typically treated with antibiotics prescribed by a healthcare provider. Prompt treatment is important to prevent the infection from spreading to the kidneys or causing complications.",
+    "questions_to_ask_doctor": [
+      "Does my urine need testing?",
+      "How do I reduce repeat infections?",
+      "How much should I be drinking?",
+      "Which symptoms mean the kidneys are involved?"
+    ],
+    "common_tests": [
+      "Urine dipstick",
+      "Urine culture"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  },
+  {
+    "id": "vertigo",
+    "name": "Vertigo",
+    "aliases": [
+      "vertigo",
+      "spinning sensation",
+      "chakkar",
+      "चक्कर",
+      "bppv"
+    ],
+    "urgency": "routine",
+    "severity_tier": "low",
+    "overview": "Vertigo is a sensation of spinning or movement, either of the individual or their surroundings, even when no actual movement is occurring. It is a symptom rather than a disease itself and can arise from various underlying conditions affecting the inner ear or the brain. The most common cause is benign paroxysmal positional vertigo (BPPV), which occurs when tiny calcium crystals in the inner ear become dislodged. Other causes include vestibular neuritis, Meniere's disease, labyrinthitis, migraines, and certain medications. Vertigo can range from mild and brief to severe and debilitating.",
+    "common_symptoms": [
+      "spinning movements",
+      "vomiting",
+      "headache",
+      "nausea",
+      "sweating",
+      "dizziness"
+    ],
+    "causes": "A false sense of spinning, most commonly from a problem in the balance organs of the inner ear.",
+    "risk_factors": [
+      "Inner ear disorders",
+      "Head injury",
+      "Migraine",
+      "Older age",
+      "Some medicines"
+    ],
+    "is_contagious": false,
+    "typical_course": "Typical symptoms include a spinning or tilting sensation, loss of balance, nausea, vomiting, dizziness, and difficulty focusing the eyes. Symptoms may be triggered or worsened by changes in head position, such as turning the head quickly, getting up from bed, or looking up. Episodes can last from seconds to minutes in BPPV, or longer in other conditions. Some individuals may also experience hearing changes, ringing in the ears, or a feeling of fullness in the ear, depending on the underlying cause.",
+    "self_care": "General self-care guidance includes moving slowly and deliberately when changing positions, especially when getting up from lying or sitting. Avoiding sudden head movements and sleeping with the head slightly elevated may reduce symptom frequency. Staying hydrated and managing stress can also help. For BPPV, specific repositioning maneuvers performed under the guidance of a healthcare provider can be highly effective in resolving symptoms.",
+    "diet": {
+      "eat": "Eat light, warm meals. Avoid heavy, oily, and cold foods. Stay well hydrated. Include ginger in your diet. Avoid sudden head movements and lying flat after meals.",
+      "avoid": ""
+    },
+    "ayurvedic_lifestyle": "Move slowly when changing positions. Practice gaze stabilization exercises. Ensure well-lit spaces. Avoid triggers like bright screens. Get adequate sleep. Manage stress.",
+    "ayurvedic_caution": "Consult a neurologist for persistent or recurrent vertigo. This is general wellness information only.",
+    "complications": [
+      "Falls and injury",
+      "Nausea and dehydration",
+      "Avoiding activity"
+    ],
+    "condition_specific_red_flags": [
+      "Vertigo with weakness, numbness or slurred speech",
+      "Severe headache with vertigo",
+      "Double vision",
+      "Difficulty walking or loss of coordination",
+      "Vertigo after a head injury"
+    ],
+    "when_to_see_doctor": "You should see a doctor if vertigo is severe, persistent, or accompanied by hearing loss, severe headache, difficulty speaking, double vision, or numbness. These symptoms may indicate a more serious condition affecting the brain, such as a stroke or other neurological disorder. A healthcare provider can perform diagnostic tests to identify the cause and recommend appropriate treatment.",
+    "questions_to_ask_doctor": [
+      "Is this coming from the ear or something else?",
+      "Are there exercises or manoeuvres that help?",
+      "Is it safe for me to drive?",
+      "How do I prevent falls at home?"
+    ],
+    "common_tests": [
+      "Clinical balance examination",
+      "Positional testing",
+      "Hearing test",
+      "Brain imaging if central causes are suspected"
+    ],
+    "sources": [
+      "NHS",
+      "MedlinePlus"
+    ]
+  }
+]

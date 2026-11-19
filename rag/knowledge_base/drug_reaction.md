@@ -1,0 +1,9 @@
+# Drug Reaction
+
+A drug reaction refers to an adverse response to a medication, which can range from mild side effects to severe, life-threatening conditions. Drug reactions may occur due to an allergic immune response, idiosyncratic sensitivity, or as a direct toxic effect of the medication. They can happen with prescription drugs, over-the-counter medications, or herbal supplements. The timing of a reaction can vary, appearing soon after starting a medication or even after prolonged use.
+
+Typical symptoms depend on the type and severity of the reaction. Common presentations include skin rashes, hives, itching, fever, swelling of the face or lips, and digestive symptoms such as nausea or diarrhea. In more severe cases, individuals may experience difficulty breathing, a rapid heartbeat, dizziness, or swelling of the throat. Rare but serious reactions can affect the liver, kidneys, or blood cells. The pattern of symptoms often correlates with the timing of medication use.
+
+General self-care guidance includes carefully reading medication labels and inform healthcare providers of any known allergies or previous reactions. If a mild reaction occurs, stopping the suspected medication (if safe to do so) and consulting a healthcare provider is recommended. Keeping a record of all medications, supplements, and any reactions experienced can help prevent future incidents. Avoid taking medications that have previously caused a reaction without medical guidance.
+
+You should seek immediate medical attention if you experience severe symptoms such as difficulty breathing, swelling of the face or throat, widespread rash, high fever, or signs of a serious systemic reaction. Prompt evaluation is critical, as some drug reactions can escalate quickly. A healthcare provider can determine whether the reaction is allergic or otherwise, and recommend safe alternatives for your treatment.

@@ -1,0 +1,9 @@
+# Peptic Ulcer Disease
+
+Peptic ulcer disease involves open sores or ulcers that develop on the inner lining of the stomach (gastric ulcers) or the upper portion of the small intestine (duodenal ulcers). The most common causes include infection with Helicobacter pylori bacteria and the long-term use of nonsteroidal anti-inflammatory drugs (NSAIDs). These factors can erode the protective mucous layer of the digestive tract, allowing acid to damage the underlying tissue. Stress and spicy foods may worsen symptoms but are not considered primary causes.
+
+Typical symptoms include a burning or gnawing stomach pain, often between the navel and the breastbone, which may occur at night or when the stomach is empty. The pain can last from minutes to hours and may temporarily improve after eating or taking antacids. Other symptoms include bloating, belching, nausea, vomiting, and in some cases, dark or bloody stools, which may indicate bleeding. Symptoms can come and go, with periods of remission and flare-ups.
+
+General self-care guidance includes eating regular, balanced meals and avoiding foods that seem to aggravate symptoms. Limiting caffeine, alcohol, and NSAID use can help protect the stomach lining. Managing stress through relaxation techniques may reduce symptom flare-ups. If a bacterial infection is identified as the cause, a healthcare provider will typically prescribe a treatment regimen to eradicate the infection and promote healing.
+
+You should see a doctor if stomach pain persists or worsens, if you notice blood in your stool or vomit, if you experience unexplained weight loss, or if symptoms do not improve with over-the-counter remedies. Untreated ulcers can lead to complications such as bleeding, perforation, or obstruction, making timely medical evaluation important.

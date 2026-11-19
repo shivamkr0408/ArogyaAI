@@ -1,0 +1,39 @@
+{
+  "_comment": "Snapshot of the deployed model BEFORE the October 2026 data-design work (discriminating exposure/history features, raised rare-class floor, condition-specific follow-ups). Captured from ml/model/metrics.json and eval/results/model_comparison.json immediately before those changes, so the explainer can show a reproducible before/after instead of a remembered one. Do not edit by hand; it is a historical record.",
+  "captured_at": "2026-10-11",
+  "model": "BernoulliNB",
+  "dataset": {
+    "total_rows": 3005,
+    "train_rows": 2406,
+    "test_rows": 599,
+    "features": 87,
+    "classes": 41
+  },
+  "headline": {
+    "accuracy": 0.8381,
+    "top3_accuracy": 0.9583,
+    "macro_f1": 0.7923,
+    "weighted_f1": 0.8343,
+    "cv_accuracy_mean": 0.852,
+    "cv_accuracy_std": 0.0159
+  },
+  "weakest_classes": {
+    "Hepatitis D": {"f1": 0.0, "precision": 0.0, "recall": 0.0, "support": 5},
+    "Hepatitis A": {"f1": 0.444, "precision": 0.57, "recall": 0.36, "support": 11},
+    "Hepatitis E": {"f1": 0.467, "precision": 0.37, "recall": 0.64, "support": 11},
+    "COPD": {"f1": 0.522, "precision": 0.46, "recall": 0.6, "support": 10},
+    "Asthma": {"f1": 0.56, "precision": 0.64, "recall": 0.5, "support": 14},
+    "Alcoholic hepatitis": {"f1": 0.571, "precision": 1.0, "recall": 0.4, "support": 5},
+    "Tuberculosis": {"f1": 0.571, "precision": 1.0, "recall": 0.4, "support": 10},
+    "Chronic cholestasis": {"f1": 0.588, "precision": 0.83, "recall": 0.45, "support": 11},
+    "Hepatitis B": {"f1": 0.667, "precision": 1.0, "recall": 0.5, "support": 4},
+    "Bronchial Asthma": {"f1": 0.703, "precision": 0.57, "recall": 0.93, "support": 14},
+    "Pneumonia": {"f1": 0.714, "precision": 0.83, "recall": 0.62, "support": 8}
+  },
+  "model_selection": {
+    "best_by_macro_f1": "Logistic Regression",
+    "deployed_model": "Bernoulli NB",
+    "macro_f1_gap_to_best": 0.0334,
+    "note": "Bernoulli NB was deployed despite trailing Logistic Regression by 0.033 macro F1, because it decomposes exactly for the explanation panel and scores symptom absence."
+  }
+}

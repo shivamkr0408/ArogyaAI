@@ -1,0 +1,9 @@
+# Chicken Pox
+
+Chicken pox is a highly contagious viral infection caused by the varicella-zoster virus (VZV). It primarily affects children but can occur at any age, with adults and immunocompromised individuals at risk for more severe disease. The virus spreads easily through respiratory droplets or direct contact with the fluid from chicken pox blisters. Once infected, a person is contagious from about two days before the rash appears until all blisters have crusted over. Chicken pox is generally a self-limiting illness, but it can lead to complications in certain populations.
+
+Typical symptoms begin with a mild fever, fatigue, headache, and general malaise, followed by the characteristic itchy, blister-like rash. The rash usually starts on the chest, back, and face before spreading to other parts of the body. Blisters progress through stages, from red bumps to fluid-filled vesicles that eventually burst and form scabs. The rash appears in successive waves over several days, so lesions at different stages of healing may be present simultaneously. Intense itching is a hallmark of the condition.
+
+General self-care guidance includes keeping the skin clean and cool to reduce itching, wearing loose-fitting clothing, and avoiding scratching to prevent secondary bacterial infections. Calamine lotion and cool baths may provide soothing relief. Adequate rest, hydration, and a nutritious diet support recovery. Isolating the infected individual from others, especially those who have not had chicken pox or the vaccine, is important to prevent spreading the infection.
+
+You should see a doctor if symptoms are severe, if high fever persists, if blisters become infected or show signs of inflammation, or if complications such as difficulty breathing, confusion, or seizures occur. Infants, pregnant women, older adults, and immunocompromised individuals should seek medical attention promptly, as they are at higher risk for serious complications.

@@ -1,0 +1,9 @@
+# Heart Attack
+
+A heart attack, also known as a myocardial infarction, occurs when blood flow to a part of the heart muscle is blocked, usually by a blood clot in a coronary artery. This blockage deprives the heart muscle of oxygen and nutrients, leading to damage or death of heart tissue. The most common cause is coronary artery disease, in which plaque builds up in the arteries over time. Risk factors include high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, and a family history of heart disease. Heart attacks can occur suddenly or may develop gradually with worsening symptoms.
+
+Typical symptoms include chest pain or discomfort that may feel like pressure, squeezing, or fullness, and can radiate to the arms, back, neck, jaw, or stomach. Other symptoms may include shortness of breath, cold sweat, nausea, lightheadedness, and unusual fatigue. Symptoms can vary significantly between individuals, and women may experience atypical symptoms such as nausea, back pain, or jaw pain more frequently than men. Some heart attacks occur without any warning symptoms, known as silent heart attacks.
+
+Immediate action is critical during a heart attack. Call emergency services without delay and chew aspirin if recommended by a dispatcher or healthcare professional. Do not drive yourself to the hospital. Time is muscle, and the longer the heart is deprived of blood flow, the greater the damage. Emergency treatment aims to restore blood flow as quickly as possible through medications or procedures such as angioplasty.
+
+After a heart attack, recovery involves cardiac rehabilitation, lifestyle changes, and ongoing medical care. This includes adopting a heart-healthy diet, engaging in regular physical activity, quitting smoking, managing blood pressure and cholesterol, and taking prescribed medications as directed. Regular follow-up with a cardiologist is essential to monitor heart function and adjust the treatment plan.

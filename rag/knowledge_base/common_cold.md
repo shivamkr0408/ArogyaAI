@@ -1,0 +1,9 @@
+# Common Cold
+
+The common cold is a mild viral infection of the upper respiratory tract, most commonly caused by rhinoviruses. It is one of the most frequent illnesses worldwide and is highly contagious, spreading through respiratory droplets or direct contact with contaminated surfaces. While the common cold can occur at any time of year, it is more prevalent during colder months. Most people experience several colds per year, and the illness typically resolves within seven to ten days without medical intervention.
+
+Typical symptoms include sneezing, runny or stuffy nose, sore throat, cough, mild headache, and sometimes a low-grade fever or body aches. Symptoms often start gradually and peak within the first few days before improving. The cough and congestion may linger for a week or more after other symptoms have subsided. Unlike the flu, the common cold generally does not cause high fever, severe body aches, or extreme fatigue.
+
+General self-care guidance includes getting plenty of rest, staying well-hydrated, and using over-the-counter remedies to manage symptoms as needed. Warm liquids, saline nasal sprays, and humidifiers can help relieve congestion and soothe a sore throat. Practicing good hand hygiene and avoiding close contact with others while symptomatic can reduce the spread of infection. There is no cure for the common cold, so treatment focuses on symptom relief and supporting the body's natural recovery process.
+
+You should see a doctor if symptoms are severe, last longer than ten days, or include high fever, difficulty breathing, or chest pain. These may indicate a secondary infection such as sinusitis or pneumonia, which may require medical treatment. Individuals with weakened immune systems, chronic lung conditions, or other health concerns should seek medical advice if they develop cold symptoms.

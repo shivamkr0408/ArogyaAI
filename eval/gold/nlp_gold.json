@@ -1,0 +1,656 @@
+{
+  "_about": "Hand-annotated gold standard for the NLP components. Symptom names must match ml/model/feature_order.json exactly. Annotated by the project team; 'expected' lists only symptoms that are affirmed, current and about the patient.",
+  "_version": "1.1",
+  "symptom_extraction": [
+    {
+      "text": "I have a high fever and a bad headache",
+      "expected": [
+        "high_fever",
+        "headache"
+      ],
+      "negated": []
+    },
+    {
+      "text": "coughing a lot with a sore throat and runny nose",
+      "expected": [
+        "cough",
+        "sore_throat",
+        "runny_nose"
+      ],
+      "negated": []
+    },
+    {
+      "text": "I don't have any fever but my chest hurts",
+      "expected": [
+        "chest_pain"
+      ],
+      "negated": [
+        "fever"
+      ]
+    },
+    {
+      "text": "no cough but I do have body aches and chills",
+      "expected": [
+        "muscle_pain",
+        "chills"
+      ],
+      "negated": [
+        "cough"
+      ]
+    },
+    {
+      "text": "my father has diabetes, I feel fine",
+      "expected": [],
+      "negated": []
+    },
+    {
+      "text": "if I get a fever should I worry",
+      "expected": [],
+      "negated": []
+    },
+    {
+      "text": "I had dengue last year, now just a mild cough",
+      "expected": [
+        "cough"
+      ],
+      "negated": []
+    },
+    {
+      "text": "throwing up since this morning and loose motions",
+      "expected": [
+        "vomiting",
+        "diarrhea"
+      ],
+      "negated": []
+    },
+    {
+      "text": "mujhe tez bukhar aur khansi hai",
+      "expected": [
+        "high_fever",
+        "cough"
+      ],
+      "negated": []
+    },
+    {
+      "text": "pet dard aur ulti ho rahi hai",
+      "expected": [
+        "stomach_pain",
+        "vomiting"
+      ],
+      "negated": []
+    },
+    {
+      "text": "sar dard aur chakkar aa rahe hain",
+      "expected": [
+        "headache",
+        "dizziness"
+      ],
+      "negated": []
+    },
+    {
+      "text": "badan dard ke saath thand lagna",
+      "expected": [
+        "muscle_pain",
+        "chills"
+      ],
+      "negated": []
+    },
+    {
+      "text": "peshab me jalan ho rahi hai",
+      "expected": [
+        "burning_micturition"
+      ],
+      "negated": []
+    },
+    {
+      "text": "saans lene me takleef aur seene me dard",
+      "expected": [
+        "breathlessness",
+        "chest_pain"
+      ],
+      "negated": []
+    },
+    {
+      "text": "I have a feaver and coughhh",
+      "expected": [
+        "fever",
+        "cough"
+      ],
+      "negated": []
+    },
+    {
+      "text": "stomuch ake and vomitting",
+      "expected": [
+        "stomach_pain",
+        "vomiting"
+      ],
+      "negated": []
+    },
+    {
+      "text": "my kness hurt and they are swollen",
+      "expected": [
+        "joint_pain",
+        "joint_swelling"
+      ],
+      "negated": []
+    },
+    {
+      "text": "severe joint pain with morning stiffness",
+      "expected": [
+        "joint_pain",
+        "joint_stiffness"
+      ],
+      "negated": []
+    },
+    {
+      "text": "itchy skin with a red rash",
+      "expected": [
+        "itching",
+        "skin_rash"
+      ],
+      "negated": []
+    },
+    {
+      "text": "I feel dizzy and the room is spinning",
+      "expected": [
+        "dizziness",
+        "spinning_movements"
+      ],
+      "negated": []
+    },
+    {
+      "text": "burning when I pee and I keep going to the toilet",
+      "expected": [
+        "burning_micturition",
+        "polyuria"
+      ],
+      "negated": []
+    },
+    {
+      "text": "my eyes look yellow and my urine is dark",
+      "expected": [
+        "yellowing_of_eyes",
+        "dark_urine"
+      ],
+      "negated": []
+    },
+    {
+      "text": "I am not experiencing any chest pain at all",
+      "expected": [],
+      "negated": [
+        "chest_pain"
+      ]
+    },
+    {
+      "text": "denies vomiting and nausea",
+      "expected": [],
+      "negated": [
+        "vomiting",
+        "nausea"
+      ]
+    },
+    {
+      "text": "wheezing and tight chest when I walk",
+      "expected": [
+        "wheezing",
+        "chest_tightness"
+      ],
+      "negated": []
+    },
+    {
+      "text": "no appetite and losing weight",
+      "expected": [
+        "loss_of_appetite",
+        "weight_loss"
+      ],
+      "negated": []
+    },
+    {
+      "text": "heart racing and I cant sleep",
+      "expected": [
+        "palpitations",
+        "insomnia"
+      ],
+      "negated": []
+    },
+    {
+      "text": "constant sneezing and watery eyes",
+      "expected": [
+        "continuous_sneezing",
+        "watering_from_eyes"
+      ],
+      "negated": []
+    },
+    {
+      "text": "constipation and pain when passing stool",
+      "expected": [
+        "constipation",
+        "pain_during_bowel_movement"
+      ],
+      "negated": []
+    },
+    {
+      "text": "feeling anxious and restless all day",
+      "expected": [
+        "anxiety",
+        "restlessness"
+      ],
+      "negated": []
+    }
+  ],
+  "assertion": [
+    {
+      "text": "I have a fever",
+      "target": "fever",
+      "expected": "affirmed"
+    },
+    {
+      "text": "I have no fever",
+      "target": "fever",
+      "expected": "negated"
+    },
+    {
+      "text": "I do not have any fever",
+      "target": "fever",
+      "expected": "negated"
+    },
+    {
+      "text": "no cough but I do have a fever",
+      "target": "cough",
+      "expected": "negated"
+    },
+    {
+      "text": "no cough but I do have a fever",
+      "target": "fever",
+      "expected": "affirmed"
+    },
+    {
+      "text": "denies chest pain",
+      "target": "chest pain",
+      "expected": "negated"
+    },
+    {
+      "text": "there is no rash on my skin",
+      "target": "rash",
+      "expected": "negated"
+    },
+    {
+      "text": "without any vomiting",
+      "target": "vomiting",
+      "expected": "negated"
+    },
+    {
+      "text": "fever is absent",
+      "target": "fever",
+      "expected": "negated"
+    },
+    {
+      "text": "the headache has resolved",
+      "target": "headache",
+      "expected": "negated"
+    },
+    {
+      "text": "I am not experiencing chest pain",
+      "target": "chest pain",
+      "expected": "negated"
+    },
+    {
+      "text": "my father has diabetes",
+      "target": "diabetes",
+      "expected": "family"
+    },
+    {
+      "text": "my mother had a stroke",
+      "target": "stroke",
+      "expected": "family"
+    },
+    {
+      "text": "family history of asthma",
+      "target": "asthma",
+      "expected": "family"
+    },
+    {
+      "text": "my brother has the same cough",
+      "target": "cough",
+      "expected": "family"
+    },
+    {
+      "text": "if I get a fever should I worry",
+      "target": "fever",
+      "expected": "hypothetical"
+    },
+    {
+      "text": "I am worried about dengue",
+      "target": "dengue",
+      "expected": "hypothetical"
+    },
+    {
+      "text": "I am scared I have cancer",
+      "target": "cancer",
+      "expected": "hypothetical"
+    },
+    {
+      "text": "in case of vomiting what should I do",
+      "target": "vomiting",
+      "expected": "hypothetical"
+    },
+    {
+      "text": "I had dengue last year",
+      "target": "dengue",
+      "expected": "historical"
+    },
+    {
+      "text": "I used to get migraines",
+      "target": "migraines",
+      "expected": "historical"
+    },
+    {
+      "text": "history of asthma",
+      "target": "asthma",
+      "expected": "historical"
+    },
+    {
+      "text": "I had typhoid two years back",
+      "target": "typhoid",
+      "expected": "historical"
+    },
+    {
+      "text": "I think I have a fever",
+      "target": "fever",
+      "expected": "uncertain"
+    },
+    {
+      "text": "maybe it is a migraine",
+      "target": "migraine",
+      "expected": "uncertain"
+    },
+    {
+      "text": "possibly a throat infection",
+      "target": "throat infection",
+      "expected": "uncertain"
+    },
+    {
+      "text": "no change in my cough",
+      "target": "cough",
+      "expected": "affirmed"
+    },
+    {
+      "text": "I have had a fever since last week",
+      "target": "fever",
+      "expected": "affirmed"
+    },
+    {
+      "text": "cough for the last month",
+      "target": "cough",
+      "expected": "affirmed"
+    },
+    {
+      "text": "my father never had asthma",
+      "target": "asthma",
+      "expected": "negated"
+    }
+  ],
+  "intent": [
+    {
+      "text": "hey doc you around",
+      "expected": "greeting"
+    },
+    {
+      "text": "assalam walekum i need some guidance",
+      "expected": "greeting"
+    },
+    {
+      "text": "hii kuch puchna tha aapse",
+      "expected": "greeting"
+    },
+    {
+      "text": "my temperature wont come down and i keep shivering",
+      "expected": "describe_symptom"
+    },
+    {
+      "text": "there is a dull ache under my ribs",
+      "expected": "describe_symptom"
+    },
+    {
+      "text": "mera gala baith gaya hai aur khansi bhi",
+      "expected": "describe_symptom"
+    },
+    {
+      "text": "i keep burping and my chest burns afterwards",
+      "expected": "describe_symptom"
+    },
+    {
+      "text": "pins and needles in both my hands at night",
+      "expected": "describe_symptom"
+    },
+    {
+      "text": "ya thats been happening to me",
+      "expected": "affirm"
+    },
+    {
+      "text": "mm yes quite often actually",
+      "expected": "affirm"
+    },
+    {
+      "text": "uh no i havent had any of that",
+      "expected": "deny"
+    },
+    {
+      "text": "no sir nothing of that sort",
+      "expected": "deny"
+    },
+    {
+      "text": "can i continue with my normal meals",
+      "expected": "ask_diet"
+    },
+    {
+      "text": "is lemon water okay in this condition",
+      "expected": "ask_diet"
+    },
+    {
+      "text": "are there any food restrictions i should follow",
+      "expected": "ask_diet"
+    },
+    {
+      "text": "would you advise an in person visit",
+      "expected": "ask_doctor"
+    },
+    {
+      "text": "is a hospital trip warranted here",
+      "expected": "ask_doctor"
+    },
+    {
+      "text": "at what point does this need a clinic",
+      "expected": "ask_doctor"
+    },
+    {
+      "text": "might there be a different explanation for this",
+      "expected": "ask_alternatives"
+    },
+    {
+      "text": "what are the runner up diagnoses",
+      "expected": "ask_alternatives"
+    },
+    {
+      "text": "on what basis did you pick that one",
+      "expected": "ask_alternatives"
+    },
+    {
+      "text": "name a tablet i could buy over the counter",
+      "expected": "ask_medicine"
+    },
+    {
+      "text": "what should i apply on it",
+      "expected": "ask_medicine"
+    },
+    {
+      "text": "anything from the chemist that would help",
+      "expected": "ask_medicine"
+    },
+    {
+      "text": "how much time before this settles down",
+      "expected": "ask_prognosis"
+    },
+    {
+      "text": "could this get complicated later on",
+      "expected": "ask_prognosis"
+    },
+    {
+      "text": "do people usually recover fully from it",
+      "expected": "ask_prognosis"
+    },
+    {
+      "text": "cheers for that",
+      "expected": "thanks"
+    },
+    {
+      "text": "much obliged for the guidance",
+      "expected": "thanks"
+    },
+    {
+      "text": "whats the petrol price today",
+      "expected": "out_of_scope"
+    },
+    {
+      "text": "suggest a good web series to watch",
+      "expected": "out_of_scope"
+    },
+    {
+      "text": "how do i reset my wifi router",
+      "expected": "out_of_scope"
+    }
+  ],
+  "temporal": [
+    {
+      "text": "I have had a fever since 3 days",
+      "expected_days": 3.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "cough for the past two weeks",
+      "expected_days": 14.0,
+      "expected_bucket": "More than 2 weeks"
+    },
+    {
+      "text": "headache since yesterday",
+      "expected_days": 1.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "vomiting since this morning",
+      "expected_days": 0.5,
+      "expected_bucket": "Less than a day"
+    },
+    {
+      "text": "do din se bukhar hai",
+      "expected_days": 2.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "teen din se khansi",
+      "expected_days": 3.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "pain for about 6 hours",
+      "expected_days": 0.25,
+      "expected_bucket": "Less than a day"
+    },
+    {
+      "text": "symptoms for a month",
+      "expected_days": 30.0,
+      "expected_bucket": "More than 2 weeks"
+    },
+    {
+      "text": "started a couple of days ago",
+      "expected_days": 2.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "loose motion since last night",
+      "expected_days": 1.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "joint pain for 2 years",
+      "expected_days": 730.0,
+      "expected_bucket": "More than 2 weeks"
+    },
+    {
+      "text": "fever since 1 week",
+      "expected_days": 7.0,
+      "expected_bucket": "About a week"
+    },
+    {
+      "text": "it has been 10 days now",
+      "expected_days": 10.0,
+      "expected_bucket": "About a week"
+    },
+    {
+      "text": "since 48 hours",
+      "expected_days": 2.0,
+      "expected_bucket": "1-3 days"
+    },
+    {
+      "text": "I had dengue last year",
+      "expected_days": null,
+      "expected_bucket": null
+    }
+  ],
+  "trend": [
+    {
+      "text": "the pain is getting worse",
+      "expected": "worsening"
+    },
+    {
+      "text": "it is about the same as before",
+      "expected": "unchanged"
+    },
+    {
+      "text": "feeling better now",
+      "expected": "improving"
+    },
+    {
+      "text": "symptoms are deteriorating",
+      "expected": "worsening"
+    },
+    {
+      "text": "no change at all",
+      "expected": "unchanged"
+    }
+  ],
+  "distress": [
+    {
+      "text": "I have a mild cough for 2 days",
+      "expected_level": "calm"
+    },
+    {
+      "text": "slight headache since morning",
+      "expected_level": "calm"
+    },
+    {
+      "text": "I am a bit worried about this cough",
+      "expected_level": "calm"
+    },
+    {
+      "text": "I am really scared, is this cancer?",
+      "expected_level": "high"
+    },
+    {
+      "text": "the pain is unbearable and I cant cope",
+      "expected_level": "high"
+    },
+    {
+      "text": "I am very anxious about these symptoms",
+      "expected_level": "elevated"
+    },
+    {
+      "text": "please help me, I am panicking",
+      "expected_level": "high"
+    },
+    {
+      "text": "I am not worried, just checking",
+      "expected_level": "calm"
+    }
+  ]
+}

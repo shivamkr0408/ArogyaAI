@@ -1,0 +1,9 @@
+# Jaundice
+
+Jaundice is a condition characterized by a yellowing of the skin and the whites of the eyes, caused by an accumulation of bilirubin in the blood. Bilirubin is a yellow pigment produced during the normal breakdown of red blood cells, which is processed by the liver and excreted in bile. When the liver is unable to adequately process bilirubin, or when bile ducts are blocked, bilirubin levels rise and cause the characteristic yellow discoloration. Jaundice can result from various underlying conditions, including liver disease, bile duct obstruction, hemolytic disorders, and certain infections.
+
+Typical symptoms include yellowing of the skin and eyes, dark urine, pale or clay-colored stools, fatigue, abdominal pain or discomfort, and in some cases, itching. The intensity of yellowing may vary depending on the severity of the underlying cause. Some individuals may also experience nausea, loss of appetite, or weight loss. Jaundice in newborns (neonatal jaundice) is common and typically resolves on its own, but jaundice in adults usually indicates an underlying medical condition that requires evaluation.
+
+General self-care guidance includes staying well-hydrated, eating a balanced diet that is easy on the liver, avoiding alcohol, and getting adequate rest. If jaundice is caused by a treatable condition, addressing the underlying cause is essential for resolution. Keeping a record of symptoms, including their onset and any associated changes in urine or stool color, can provide helpful information for healthcare providers.
+
+You should see a doctor promptly if you notice yellowing of the skin or eyes, dark urine, pale stools, or persistent abdominal pain. Jaundice is not a disease itself but a sign of an underlying condition, and timely medical evaluation is important to identify the cause and begin appropriate treatment. In some cases, jaundice may indicate a serious condition that requires urgent care.

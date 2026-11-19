@@ -1,0 +1,9 @@
+# Malaria
+
+Malaria is a potentially life-threatening infectious disease caused by parasites that are transmitted to humans through the bites of infected female Anopheles mosquitoes. The parasites, primarily of the Plasmodium species, enter the bloodstream and travel to the liver, where they multiply and eventually infect red blood cells. Malaria is most common in tropical and subtropical regions, particularly in sub-Saharan Africa, South Asia, and parts of Central and South America. Travelers to endemic areas are at significant risk if preventive measures are not taken.
+
+Typical symptoms follow a cyclical pattern and include high fever, chills, sweating, headache, muscle aches, fatigue, nausea, and vomiting. Symptoms often occur in episodes that last several hours and are typically preceded by a period of intense chills followed by high fever and profuse sweating. The cyclical nature of symptoms is characteristic of malaria and corresponds to the parasite's life cycle within red blood cells. In severe cases, complications such as severe anemia, organ failure, or cerebral malaria can develop, which are medical emergencies.
+
+General self-care guidance for prevention includes taking antimalarial prophylaxis as prescribed when traveling to endemic areas, using insect repellent, sleeping under insecticide-treated bed nets, and wearing long sleeves and pants during peak mosquito activity times. If symptoms develop during or after travel to a malaria-endemic region, seeking prompt medical attention is essential, as early treatment significantly improves outcomes.
+
+You should see a doctor immediately if you develop fever, chills, or flu-like symptoms during or after travel to a malaria-endemic area. Malaria is diagnosed through blood tests, and timely treatment is critical to prevent complications and save lives. Do not delay seeking care, as malaria can progress rapidly to a severe and life-threatening stage.

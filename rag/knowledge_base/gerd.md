@@ -1,0 +1,9 @@
+# GERD (Gastroesophageal Reflux Disease)
+
+GERD is a chronic digestive condition where stomach acid frequently flows back into the esophagus, the tube connecting the mouth and stomach. This backwash, known as acid reflux, irritates the lining of the esophagus. Occasional acid reflux is common, but when it occurs regularly and causes discomfort, it may be diagnosed as GERD. Contributing factors include obesity, pregnancy, smoking, and certain dietary habits. Weakening of the lower esophageal sphincter, a muscle that normally prevents acid from flowing backward, plays a central role in the condition.
+
+Typical symptoms include a burning sensation in the chest (heartburn), especially after eating or at night, regurgitation of food or sour liquid, difficulty swallowing, and a sensation of a lump in the throat. Some people may experience chronic cough, laryngitis, or worsened asthma symptoms, particularly when lying down. Symptoms often worsen after large meals, when bending over, or when lying down shortly after eating. The frequency and severity of symptoms can vary widely among individuals.
+
+General self-care guidance focuses on lifestyle and dietary modifications. Eating smaller, more frequent meals and avoiding known trigger foods such as spicy, fatty, or acidic items can help. Elevating the head of the bed, avoiding lying down shortly after eating, maintaining a healthy weight, and quitting smoking are recommended strategies. Wearing loose-fitting clothing and managing stress may also reduce symptom frequency.
+
+You should see a doctor if symptoms occur twice a week or more, if over-the-counter treatments do not provide relief, or if you experience difficulty swallowing, unexplained weight loss, or vomiting blood. Persistent GERD can lead to complications such as esophagitis or changes in the esophageal lining, so medical evaluation is important for proper diagnosis and long-term management.

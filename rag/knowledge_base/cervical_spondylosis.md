@@ -1,0 +1,9 @@
+# Cervical Spondylosis
+
+Cervical spondylosis is a degenerative condition affecting the cervical spine (neck), involving wear and tear of the vertebral discs, joints, and bones over time. It is a common age-related condition, often resulting from natural aging processes that cause disc dehydration, bone spur formation, and joint stiffness. Other contributing factors include poor posture, prolonged screen use, previous neck injuries, and occupations that involve repetitive neck movements. While many people with cervical spondylosis experience no symptoms, the condition can lead to chronic neck discomfort and other complications if the changes compress nearby nerves or the spinal cord.
+
+Typical symptoms include chronic neck pain and stiffness that may worsen with movement, pain that radiates into the shoulders or arms, numbness, tingling, or weakness in the hands and arms, and in some cases, headaches. The pain may be dull and constant or sharp and intermittent, particularly when turning the head or looking up. If nerve compression occurs, symptoms can become more pronounced and may affect daily activities like driving, working at a computer, or sleeping comfortably.
+
+General self-care guidance includes maintaining good posture, taking regular breaks from screens, performing gentle neck stretching and strengthening exercises, and using ergonomic furniture. Applying heat or cold to the neck can help ease discomfort, and avoiding prolonged positions that strain the neck is beneficial. A supportive pillow and mindful daily habits can reduce symptom flare-ups.
+
+You should see a doctor if neck pain persists or worsens, if you experience numbness, tingling, or weakness in your arms or hands, if symptoms interfere with daily activities, or if you notice changes in coordination or balance. These symptoms may indicate nerve or spinal cord involvement, which requires prompt medical evaluation and appropriate management.

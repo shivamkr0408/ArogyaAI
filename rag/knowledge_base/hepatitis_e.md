@@ -1,0 +1,9 @@
+# Hepatitis E
+
+Hepatitis E is a liver infection caused by the hepatitis E virus (HEV), primarily transmitted through the fecal-oral route, typically via contaminated drinking water. It is most common in areas with poor sanitation and is a leading cause of acute viral hepatitis worldwide. Outbreaks often occur after heavy rainfall or flooding, which can contaminate water supplies. Unlike hepatitis B and C, hepatitis E usually does not become chronic in healthy individuals, though chronic infection can develop in immunocompromised people. Pregnant women are at particular risk for severe disease from hepatitis E.
+
+Typical symptoms include fever, fatigue, loss of appetite, nausea, abdominal pain, dark urine, and jaundice. The illness usually resolves on its own within several weeks to months, with most people making a full recovery. However, in pregnant women, particularly in the third trimester, hepatitis E can lead to severe complications, including liver failure and a higher risk of maternal and fetal mortality. The infection can also be more severe in individuals with pre-existing liver disease or weakened immune systems.
+
+General self-care guidance focuses on prevention through access to safe drinking water, proper sanitation, and good hygiene practices such as regular handwashing. There is currently no widely available vaccine for hepatitis E in all regions, though one exists in some countries. If infected, rest, adequate hydration, and nutritional support are important for recovery. Avoiding alcohol and unnecessary medications that may stress the liver is recommended during the illness.
+
+You should see a doctor if you develop symptoms of liver inflammation, especially if you are pregnant, have a pre-existing liver condition, or have a weakened immune system. Blood tests can confirm the diagnosis, and medical monitoring is important to watch for complications. In severe cases, hospitalization may be necessary for supportive care.

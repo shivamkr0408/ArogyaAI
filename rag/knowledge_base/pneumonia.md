@@ -1,0 +1,9 @@
+# Pneumonia
+
+Pneumonia is an infection that inflames the air sacs (alveoli) in one or both lungs, which may fill with fluid or pus. It can be caused by bacteria, viruses, fungi, or other organisms, and can range from mild to life-threatening. Certain populations, including young children, older adults, smokers, and individuals with weakened immune systems or chronic illnesses, are at greater risk for developing pneumonia. The infection can occur on its own (community-acquired) or as a complication of other illnesses or hospital stays.
+
+Typical symptoms include cough with phlegm, fever, chills, difficulty breathing, chest pain that worsens with deep breaths or coughing, fatigue, and loss of appetite. The onset of symptoms can be sudden or gradual, depending on the type of causative organism. In severe cases, symptoms may include high fever, rapid breathing, confusion, bluish discoloration of the lips or fingertips, and a general state of illness. The pattern and severity of symptoms can vary widely based on the individual's overall health and the specific type of pneumonia.
+
+General self-care guidance includes getting plenty of rest, staying well-hydrated, and using fever-reducing measures as appropriate. Avoiding smoking and exposure to secondhand smoke supports lung health. Pneumococcal vaccines and annual influenza vaccines can help prevent certain types of pneumonia. Good hygiene practices, such as regular handwashing, reduce the risk of respiratory infections.
+
+You should see a doctor if you experience difficulty breathing, chest pain, high fever, confusion, or if symptoms do not improve or worsen despite home care. Pneumonia can be serious, especially in vulnerable populations, and may require medical treatment including antibiotics for bacterial pneumonia or antiviral medications for certain viral causes. Prompt medical evaluation ensures accurate diagnosis and appropriate treatment.

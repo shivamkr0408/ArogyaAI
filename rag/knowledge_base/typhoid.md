@@ -1,0 +1,9 @@
+# Typhoid
+
+Typhoid fever is a bacterial infection caused by Salmonella typhi, typically spread through contaminated food or water. It is most common in areas with poor sanitation and limited access to clean water, particularly in parts of South Asia, Southeast Asia, Africa, and Central and South America. The bacteria enter the body through the digestive tract and can spread to the bloodstream, affecting multiple organs. Without treatment, typhoid fever can lead to serious complications such as intestinal perforation, sepsis, and organ failure.
+
+Typical symptoms develop gradually and include sustained high fever, headache, abdominal pain, constipation or diarrhea, loss of appetite, weakness, and a characteristic rash of flat, rose-colored spots. The fever often rises in a stepwise pattern over several days and can remain elevated for weeks. Other symptoms may include malaise, muscle aches, and a coated tongue. The gradual onset and prolonged course of symptoms are characteristic features that can help distinguish typhoid from other febrile illnesses.
+
+General self-care guidance emphasizes prevention through safe food and water practices, including drinking only boiled or bottled water, eating thoroughly cooked food, and practicing good hand hygiene. If infected, adequate rest, fluid intake, and nutrition are important for recovery. Monitor symptoms closely, as typhoid requires medical treatment to prevent complications.
+
+You should see a doctor if you develop a sustained fever, especially if you have recently traveled to an area where typhoid is common, or if symptoms include abdominal pain, weakness, or a rash. Typhoid is diagnosed through blood tests and requires antibiotic treatment prescribed by a healthcare provider. Delaying treatment increases the risk of complications and prolonged illness.
